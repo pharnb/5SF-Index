@@ -1,0 +1,503 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "jQ0vURjE0ZInhHoSqfzveVRGyjc",
+  "prevPageToken": "CNAPEAE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C3s7GEeg53E3OLTFgUMGdKKcE_w",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnVUMlVaZ2tWTG1r",
+      "snippet": {
+        "publishedAt": "2008-11-05T19:38:01Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Bupkes Betrays His Countrymen",
+        "description": "Bupkes thought he could withstand any form of torture and persuasion. Then the Russians brought \"Das Clozer.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uT2UZgkVLmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uT2UZgkVLmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uT2UZgkVLmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2000,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uT2UZgkVLmk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "uT2UZgkVLmk",
+        "videoPublishedAt": "2008-11-05T19:40:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "juEJpq7ncY02umvFQHIzTzoyDbs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnBtUmV0QkotZ0dn",
+      "snippet": {
+        "publishedAt": "2008-11-05T19:37:14Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Bucky Calls the Captain",
+        "description": "Listen Bucky, the Ameriphone is reserved for emergencies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pmRetBJ-gGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pmRetBJ-gGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pmRetBJ-gGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2001,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pmRetBJ-gGg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "pmRetBJ-gGg",
+        "videoPublishedAt": "2008-11-05T19:39:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MaUaUKqktOLEihoJLSVQmXPLRbQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmJyb1VBd2NlMlpv",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:48:48Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Watch Where You Sleep",
+        "description": "I often dream that I'm sleeping and my alarm clock is going off. I have that dream nearly every day. Dear God, how long have I been under a truck?!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/broUAwce2Zo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/broUAwce2Zo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/broUAwce2Zo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2002,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "broUAwce2Zo"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "broUAwce2Zo",
+        "videoPublishedAt": "2008-11-05T07:50:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HjeHcEZ6LO2aXtPS-LqHWXCGDIw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkJLY0dqa1Nnak1j",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:47:22Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Face Stomptacular",
+        "description": "These were the early days of 5sf, when we were content with filming actual sleeping people and then suggesting via editing that Dalton was approaching to destroy them. Come to think of it, we're still pretty content with it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BKcGjkSgjMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BKcGjkSgjMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKcGjkSgjMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2003,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BKcGjkSgjMc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "BKcGjkSgjMc",
+        "videoPublishedAt": "2008-11-05T07:48:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ik6vi10E1uQP_PMJH945brbGcLU",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLndVM1NISzRTNldZ",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:42:39Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Sgt. Slaughter, Motivational Speaker",
+        "description": "He keeps trying to pull this monologue thing off, and his penchant for brevity keeps getting in the way.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wU3SHK4S6WY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wU3SHK4S6WY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wU3SHK4S6WY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2004,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wU3SHK4S6WY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "wU3SHK4S6WY",
+        "videoPublishedAt": "2008-11-05T07:43:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CR0e7LovSj6T3m1yF5Ktxdjq5Oo",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjFuZWZrcndKS3BV",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:41:04Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Operation Mistletoe, Part Deux",
+        "description": "The thrilling conclusion to Operation Mistletoe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1nefkrwJKpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1nefkrwJKpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1nefkrwJKpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2005,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1nefkrwJKpU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "1nefkrwJKpU",
+        "videoPublishedAt": "2008-11-05T07:42:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1IN_Src28z4bl2nvlR0jXiNEx0E",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmE3UWR4M1Z5NnZj",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:40:17Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Operation Mistletoe",
+        "description": "A world at crisis. An army facing down defeat. A man who will rise above it all.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7Qdx3Vy6vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7Qdx3Vy6vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7Qdx3Vy6vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2006,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a7Qdx3Vy6vc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "a7Qdx3Vy6vc",
+        "videoPublishedAt": "2008-11-05T07:41:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WnIzIkeqjNfjJddf45oLUmaD9OM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjdEVzlvYU9sOVFr",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:38:44Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "A Nation Forever Changed",
+        "description": "Fresh, scathing political humor, hot off the presses and incredibly topical. Just the way we completely hate it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7DW9oaOl9Qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7DW9oaOl9Qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7DW9oaOl9Qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2007,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7DW9oaOl9Qk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "7DW9oaOl9Qk",
+        "videoPublishedAt": "2008-11-05T07:40:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oLfXifRQErSmXxoTjE9rV9DjAl4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkNzWDNOVUN0OVlv",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:28:44Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Fastest Cancelled Kid's Cartoon Ever",
+        "description": "Just seconds later, they hastily re-ran last week's episode of \"Fudgy Dragon and the Knights of Constipary,\" and after all the phone calls, QVC became the shopping channel it's known as today.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CsX3NUCt9Yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CsX3NUCt9Yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CsX3NUCt9Yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2008,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CsX3NUCt9Yo"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "CsX3NUCt9Yo",
+        "videoPublishedAt": "2008-11-05T07:30:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D9Z8qBQScAxs_Bs-U1ySTVdj7UY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlZZY3VUb2MzUU1V",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:27:33Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Ending to a Bad Teen Romantic Comedy",
+        "description": "It's not hard to tell which one of these we'd go with if we were the producer. Hint: It involves robots.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VYcuToc3QMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VYcuToc3QMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VYcuToc3QMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2009,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VYcuToc3QMU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "VYcuToc3QMU",
+        "videoPublishedAt": "2008-11-05T07:29:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qy4KnmpuXwuCBLfap8d5bSbqUu8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLl9fVFpiWGE1U3dZ",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:14:16Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Ass Party",
+        "description": "There's a party in my ass, and everyone's inv...oh, wait.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/__TZbXa5SwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/__TZbXa5SwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/__TZbXa5SwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2010,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "__TZbXa5SwY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "__TZbXa5SwY",
+        "videoPublishedAt": "2008-11-05T07:15:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uU-cuoBlwnFUI9Hn6TFLYpXZjHw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjVfaGo5eHAwNnAw",
+      "snippet": {
+        "publishedAt": "2008-11-05T07:11:29Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "anguish. a film by dalton gaudin",
+        "description": "This is not a five-second film. If you try and argue otherwise, please note that you are part of the cynical, narrow-minded society the character in \"anguish\" is raging futilely against. What say you now, knave?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5_hj9xp06p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5_hj9xp06p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5_hj9xp06p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 2011,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5_hj9xp06p0"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "5_hj9xp06p0",
+        "videoPublishedAt": "2008-11-05T07:12:46Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2012,
+    "resultsPerPage": 50
+  }
+}

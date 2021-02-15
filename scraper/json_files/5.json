@@ -1,0 +1,2537 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "XD6NP18IJ9a9ggOck4r7UVn8RlQ",
+  "nextPageToken": "CPoBEAA",
+  "prevPageToken": "CMgBEAE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ECYsDD69Of30x9Zj02ajeRFFg1c",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk1zb2dvZUZkRmR3",
+      "snippet": {
+        "publishedAt": "2014-08-12T18:24:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "One Man's Future",
+        "description": "Preston Bronconius wound up killing so many millions of Future Hitlers across space and time that he became known as the \"Future Hitler Hitler\" in the history books. Until he murdered the authors of those history books, whereupon he hence became known as Nice Dude Preston.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MsogoeFdFdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MsogoeFdFdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MsogoeFdFdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MsogoeFdFdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MsogoeFdFdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 200,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MsogoeFdFdw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "MsogoeFdFdw",
+        "videoPublishedAt": "2014-08-12T19:32:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PpLh7k9VePGGaFT-KEhY3MNKDkY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnFJeGw4NC1MaDNJ",
+      "snippet": {
+        "publishedAt": "2014-06-23T00:21:24Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "\"Dude Bro\" Kickstarter Update & Comment of the Week 6/16-6/20",
+        "description": "Hey y'all!\n\nDude Bro Party Massacre III is wrapped! We're here with some cool updates on filming as well as reward fullfillment for our backers.\n\nPLUS comment of the week on last week's film: \"Diction\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qIxl84-Lh3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qIxl84-Lh3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qIxl84-Lh3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qIxl84-Lh3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qIxl84-Lh3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 201,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qIxl84-Lh3I"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "qIxl84-Lh3I",
+        "videoPublishedAt": "2014-06-23T17:56:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "daT0xyu6eX2Sszl-bV9I9s-rY48",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlUxZzZMMGNOT1hj",
+      "snippet": {
+        "publishedAt": "2014-06-18T16:39:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Diction",
+        "description": "Childish schoolyard pranks, such as the famous \"I can make you speak Indian,\" can be easily deterred as seen here. For example, if someone asks you \"What were you eating under there,\" simply say \"You have semen in your mouth,\" and presto - a geyser of semen will come shooting out of their smug talkhole. Or, if someone loudly and quickly proclaims \"Loserssaywhat\" in an attempt to confuse you, respond with \"Semen\" and then they will vomit baby gravy. It's all here in my book, Jizzwizard.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U1g6L0cNOXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U1g6L0cNOXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U1g6L0cNOXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U1g6L0cNOXc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U1g6L0cNOXc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 202,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U1g6L0cNOXc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "U1g6L0cNOXc",
+        "videoPublishedAt": "2014-06-18T16:55:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zzl9KXUaCDKyTmn0cdWwtjCuWhc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjRLTjRCckRpQzB3",
+      "snippet": {
+        "publishedAt": "2014-04-29T01:39:40Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5SF Comment of the Week 4/14 - 4/18",
+        "description": "The bro and bro-ettes are up in Big Bear filming week 2 of DBPM3! Got some unsuspecting visitors.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KN4BrDiC0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KN4BrDiC0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KN4BrDiC0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KN4BrDiC0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KN4BrDiC0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 203,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4KN4BrDiC0w"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "4KN4BrDiC0w",
+        "videoPublishedAt": "2014-04-29T01:59:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AIiDCO3P0iok-5H2W0NnOV_vNpM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkI5WjEyYmVMbHFN",
+      "snippet": {
+        "publishedAt": "2014-04-22T03:09:13Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Talk To Text",
+        "description": "Knowing now that he would have to keep this charade up if it meant staying in a rent-controlled apartment, Joey went on to marry Tim, have five children by his name, move out of the rent-controlled apartment to a nice house in the suburbs, lobby for a raise at work, use the extra money to surprise Tim with a $5,000 investment on his dream of selling jars of honey, take a second honeymoon in the Maldives, go to their sons' Pop Warner games together, take their oldest daughter around the country to look at colleges in a big loving road trip, eventually sell the house for a quaint one-story in their old age, hold their first grandchildren together, ride a ferry out to see the Statue of Liberty like they always said they would do, hold hands as the 4th of July fireworks popped and crackled above, say goodbye to him on the hospital bed, then soon lose grip on living himself in the lonely weeks to come. Just so as not to risk confrontation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B9Z12beLlqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B9Z12beLlqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B9Z12beLlqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B9Z12beLlqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B9Z12beLlqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 204,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B9Z12beLlqM"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "B9Z12beLlqM",
+        "videoPublishedAt": "2014-04-22T13:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oP0awlOgU5UmZNDfubUivPiXJOk",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmhvZzBzdTBkZmpN",
+      "snippet": {
+        "publishedAt": "2014-04-17T07:30:38Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Comment of the Week 4/7-4/11",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hog0su0dfjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hog0su0dfjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hog0su0dfjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hog0su0dfjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hog0su0dfjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 205,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hog0su0dfjM"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "hog0su0dfjM",
+        "videoPublishedAt": "2014-04-18T09:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4AtZrH9ghohNc3UwEZUqFjIZLU4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLndBUWdCMVZHRElZ",
+      "snippet": {
+        "publishedAt": "2014-04-09T02:41:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Keys, Wallet, Phone",
+        "description": "\u200bThe door locked behind him, and with all the neighbors gone for work, there was no phone he could use to call the bank and cancel his credit cards. It was the perfect con, and it only took three years of being shoved into linty, sweaty pockets to plan it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wAQgB1VGDIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wAQgB1VGDIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wAQgB1VGDIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wAQgB1VGDIY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wAQgB1VGDIY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 206,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wAQgB1VGDIY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "wAQgB1VGDIY",
+        "videoPublishedAt": "2014-04-09T13:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a1msgtBQIoWYytf-W_tfuBJsgfY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLktIOF9oRHJraU1B",
+      "snippet": {
+        "publishedAt": "2014-04-08T06:36:02Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Comment Of The Week 3/31 - 4/04 / \"Dude Bro\" Update!!",
+        "description": "NEW 5 SECOND FILMS SHIRTS!!!! \nhttp://society6.com/scoma\n\nNEW 5 SECOND FILMS PODCAST!! https://itunes.apple.com/us/podcast/a-long-walk-with-mike-joey/id794162129?mt=2\n\nThe Slanted lens (Chill Box) \nhttps://www.youtube.com/watch?v=Ieucw75lclU&feature=youtu.be&t=56s",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KH8_hDrkiMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KH8_hDrkiMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KH8_hDrkiMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KH8_hDrkiMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KH8_hDrkiMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 207,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KH8_hDrkiMA"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "KH8_hDrkiMA",
+        "videoPublishedAt": "2014-04-08T15:41:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0-rTPZ9HRt9C3V0WkDkktqS57ss",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkkzZnBLYmRaakpj",
+      "snippet": {
+        "publishedAt": "2014-03-31T19:02:32Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Fastest Feathers In The West",
+        "description": "\u200bHe slandered his lady, kilt his steed, but worst of all - he lied about the thread count on the down comforter he sold him. Blood, my friends, was to be spilled. Blood that no amount of ammonia and lemon juice could wipe away.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3fpKbdZjJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3fpKbdZjJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3fpKbdZjJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I3fpKbdZjJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I3fpKbdZjJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 208,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I3fpKbdZjJc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "I3fpKbdZjJc",
+        "videoPublishedAt": "2014-04-01T13:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EE77yUrZOmVmSnhtrmthbSXLJuE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmttdDBoLUdxSDRF",
+      "snippet": {
+        "publishedAt": "2014-03-04T17:22:38Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Full \"Indie-izer\" sketch from 2014 Spirit Awards w/ Patton Oswalt",
+        "description": "This is the full Indie-izer sketch that we produced for the 2014 Spirit Awards on IFC. It played during the show, but sadly due to time constraints was cut from the broadcast. However Film Independent, The Spirit Awards Staff and Patton all still wanted to get it out to the world...so here it is!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kmt0h-GqH4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kmt0h-GqH4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmt0h-GqH4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kmt0h-GqH4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 209,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kmt0h-GqH4E"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "kmt0h-GqH4E",
+        "videoPublishedAt": "2014-03-04T17:29:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "18Ysgs-UnnUnveP6z14T05dx2WE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkpJWk5DZFRLUmFB",
+      "snippet": {
+        "publishedAt": "2014-02-11T01:01:02Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "DUDE BRO PARTY MASSACRE 3: Behind the Scenes of Day One",
+        "description": "It's DAY ONE of shooting for \"Dude Bro Party Massacre III,\" with the whole 5-Second Films gang, plus special guest Patton Oswalt! This video is just the beginning of exclusive behind-the-scenes updates for the film that you all helped us bring to life!\n \nKickstarter backers can now download their year-long compilations OF EVERY SINGLE 5SF EVER MADE EVER. Go to backers.dudebroparty.com and login to download them now!!\n \nContributors (dependent on your reward level) can also now enter their idea for an original 5SF that WE shoot!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JIZNCdTKRaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JIZNCdTKRaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JIZNCdTKRaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JIZNCdTKRaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JIZNCdTKRaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 210,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JIZNCdTKRaA"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "JIZNCdTKRaA",
+        "videoPublishedAt": "2014-02-11T03:06:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GlVPeGResIne8CGdFNYkxPFlfdQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmdUd0tnaWxWMHJ3",
+      "snippet": {
+        "publishedAt": "2014-01-24T19:41:12Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "FLAVOR FRIEND!",
+        "description": "FIVECO INDUSTRIES PRESENTS: FLAVOR FRIEND! CRAM IT IN YOUR FOODHOLE KIDS! Now with BLITZ! Flavor Molecules.\n\nPresented by: 5-Second Films\nCreated by: Brian Firenzi\nWritten by: Ben Gigli\nDirector: Ben Gigli\nDirector of Photography: Jon Salmon\nTheme Song by Alec Owen\n\nFlavor Friend: Michael Rousselet\nBilly: Alec Owen\nBBQ Attendee 1: Dominique Generaux\nBBQ Attendee 2: Jess Leigh\nBBQ Attendee 3: Tomm Jacobsen\nBBQ Attendee 4: Tim Ciancio\n\nFlavor Friend Costume Design and Creation: Ben Gigli & Tomm Jacobsen\n\nCrew:\nTomm Jacobsen\nJustin Raths\nJoey Scoma\nMike James\n\nDOWNLOAD THE SONG FOR SOME REASON: https://soundcloud.com/alecowen/flavor-friend-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gTwKgilV0rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gTwKgilV0rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gTwKgilV0rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gTwKgilV0rw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gTwKgilV0rw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 211,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gTwKgilV0rw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "gTwKgilV0rw",
+        "videoPublishedAt": "2014-01-25T09:05:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rg10io2_NwO1a7NT00zUgk62VtE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjRvazlNbVg5WGtj",
+      "snippet": {
+        "publishedAt": "2013-12-31T20:23:39Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Last 5sf - Part 2",
+        "description": "Villains rise, heroes fall. An epic battle unfolds in the heart of space. And somewhere, deep in the bowels of Hollywood California, one frustrated writer never has to pound out another description for a daily 5-second films ever again.\n\nFilmed at: Laurel Canyon Stages, Arleta CA\nMusic by: John Robert Matz\nhttp://johnrobertmatz.com\nVFX by: Tim Ciancio\nWritten and Directed by Brian Firenzi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ok9MmX9Xkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ok9MmX9Xkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ok9MmX9Xkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4ok9MmX9Xkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4ok9MmX9Xkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 212,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4ok9MmX9Xkc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "4ok9MmX9Xkc",
+        "videoPublishedAt": "2013-12-31T21:27:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4DC-f9XsGpxfpkLMUk40rP55U0U",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkRrME5NMWRhV1Jn",
+      "snippet": {
+        "publishedAt": "2013-12-30T22:35:47Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Final Comments of the Week - 12/23 - 12/27",
+        "description": "Our final comments of the week installment takes a look at all your wonderful 5sf Vine remakes, reflects fondly on the things we will (or won't) miss, and you get a sneak peek at the BTS process of editing Welcome to Chincón!\n\nIn lieu of Comments of the Week, your continued subscription to 5secondfilms will get you update videos and on-set diaries from the shooting of Dude Bro Party Massacre 3! As well as, you know, infrequent 5sfs and such. And our website is due for a big overhaul, doncha think? Yeah, we think so too. Stick around - things are actually about to get interesting!\n\nAnd thanks for the long, wild ride! None of it would be possible without you guys! You guys first, Patton Oswalt second, and cocaine third. That's the order.\n\nTHANKS,\n-5secondfilms",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dk0NM1daWRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dk0NM1daWRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dk0NM1daWRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dk0NM1daWRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dk0NM1daWRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 213,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dk0NM1daWRg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Dk0NM1daWRg",
+        "videoPublishedAt": "2013-12-31T00:07:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UafZkc9T8Zta9kINh5W0NccHEYU",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLldOVUk3V2E2UGg4",
+      "snippet": {
+        "publishedAt": "2013-12-30T08:47:02Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Last 5SF - Part 1",
+        "description": "The gang becomes obsolete, and thus begins a mad quest for revenge.\n\nPart Two airs tomorrow. Be there. #Last5sf\n\nFilmed at: Laurel Canyon Stages, Arleta CA\nMusic by: John Robert Matz\nhttp://johnrobertmatz.com\nVFX by: Tim Ciancio\nWritten and Directed by Brian Firenzi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WNUI7Wa6Ph8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WNUI7Wa6Ph8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WNUI7Wa6Ph8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WNUI7Wa6Ph8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WNUI7Wa6Ph8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 214,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WNUI7Wa6Ph8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "WNUI7Wa6Ph8",
+        "videoPublishedAt": "2013-12-30T09:24:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aV5F46h0wYlozafQa0J6xEQPaZs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjYwaVdLeVhOUF9N",
+      "snippet": {
+        "publishedAt": "2013-12-30T01:45:20Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #270",
+        "description": "Santa laid some hard truth to the kids that Officer Sminkle wouldn't be be back until DUDEBRO PARTY MASSACRE, but Stan Lee wasn't worried because he has better things to do like develop a super hero snake!\n\n-----------------\n\nIt was fun guys! 270 Weeks of non-stop daily uploads, now we get to take a break and focus on our feature film and UPROXX. Don't worry we will still release some new 5secondfilms! Can't stop the monkey!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/60iWKyXNP_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/60iWKyXNP_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/60iWKyXNP_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/60iWKyXNP_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/60iWKyXNP_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 215,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "60iWKyXNP_M"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "60iWKyXNP_M",
+        "videoPublishedAt": "2013-12-30T01:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eN79nK3o_Ti9v1rVNEDIKeSKmc8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlQzOUdoTXFpS0Fr",
+      "snippet": {
+        "publishedAt": "2013-12-27T08:08:39Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Snake Attack",
+        "description": "They were the best attackers in the business. And brother, business was good. But they knew sooner or later their wild ride would come to a hissing, gnashing end. Only one question remained: How much cold hard cash could they rake in before the Reaper came a-calling?\n\nSTARRING:\n\nAndrew W.K.\nBrian McElhaney & Nick Kocher (BriTANicK)\nWeird Al Yankovic\nPatton Oswalt\nJohn Daley\n\nSee you next week for: THE LAST 5SF",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T39GhMqiKAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T39GhMqiKAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T39GhMqiKAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T39GhMqiKAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T39GhMqiKAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 216,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T39GhMqiKAk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "T39GhMqiKAk",
+        "videoPublishedAt": "2013-12-27T08:19:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HukQ5R6zGLYEuELcB2FO-bw7D2g",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLi1QYThRZE1HeW0w",
+      "snippet": {
+        "publishedAt": "2013-12-26T07:40:29Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Man",
+        "description": "Stan Lee's entire workday is like this. Just endlessly holding court for random twenty- and thirty-somethings, most of whom have nothing to offer the world, others who only have things to take from it. He even has it pencilled into his daily schedule: Deal With Idiot Youngsters, 9:30A - 4:45P. How he has time to cameo in all those Marvel movies, nobody knows.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Pa8QdMGym0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Pa8QdMGym0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Pa8QdMGym0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Pa8QdMGym0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Pa8QdMGym0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 217,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Pa8QdMGym0"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "-Pa8QdMGym0",
+        "videoPublishedAt": "2013-12-26T08:02:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zEOYNZSkkcxHvLwWDqjD89rFh70",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjVKdGFNY0VONUFj",
+      "snippet": {
+        "publishedAt": "2013-12-25T11:29:31Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Welcome to Chincón",
+        "description": "Officer Sminkle was a man on the run. A lone gun, wanted for the murder of America's bird. A private eye hiding behind a faded badge in the most dangerous town in Mexico - but that didn't stop him from trying to make tourist videos for a few pesos on the side. He could have lived out his life in hiding here, sipping down horchatas and looking over his shoulder every bullet-riddled block. But fate had different designs for the Smink.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5JtaMcEN5Ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5JtaMcEN5Ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5JtaMcEN5Ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5JtaMcEN5Ac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5JtaMcEN5Ac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 218,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5JtaMcEN5Ac"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "5JtaMcEN5Ac",
+        "videoPublishedAt": "2013-12-25T11:30:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zsmTLk_z8nEMOtXJ2yumhzE99xQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmVMMkZKMmwxWHF3",
+      "snippet": {
+        "publishedAt": "2013-12-24T04:17:40Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Stepfather's Christmas",
+        "description": "It had been hard for him to win their love. They were finicky, standoffish and distrustful of him, as stepchildren are often wont to be. But he had one last ace up his sleeve: Two tickets to ride on the coal train at his work, deep into the center of Tristeza Negra Mine, where they'd pop a tent and spend some quality family time together by camping. You know what they say: The quickest way to a child's heart is through their lungs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eL2FJ2l1Xqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eL2FJ2l1Xqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eL2FJ2l1Xqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eL2FJ2l1Xqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eL2FJ2l1Xqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 219,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eL2FJ2l1Xqw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "eL2FJ2l1Xqw",
+        "videoPublishedAt": "2013-12-24T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WT1tELT0fcfPNJWsonomO-nCQYc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLngtY1lBeWdzaTVR",
+      "snippet": {
+        "publishedAt": "2013-12-23T04:27:27Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Santa Lays Some Hard Truth",
+        "description": "It's not that Santa's job requires him to keep tabs on kids once they grow out of believing in him, and believing that unprotected sex is gross and filled with cooties. It's just that he can't stop knowing. Ever had a light switch you can't turn off? Now put that light switch in your brain and fill it with images of visits to the free clinic.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-cYAygsi5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-cYAygsi5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-cYAygsi5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x-cYAygsi5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x-cYAygsi5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 220,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x-cYAygsi5Q"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "x-cYAygsi5Q",
+        "videoPublishedAt": "2013-12-23T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XYy4oLRmckJfc9mIW-7wO0MbrPw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjFnQzllV3dveWQ4",
+      "snippet": {
+        "publishedAt": "2013-12-23T06:57:45Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #269",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1gC9eWwoyd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1gC9eWwoyd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1gC9eWwoyd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1gC9eWwoyd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1gC9eWwoyd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 221,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1gC9eWwoyd8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "1gC9eWwoyd8",
+        "videoPublishedAt": "2013-12-23T07:10:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M5EG6nq-pTU_JIpqYaQZcvNlH1A",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnBYM2VDVVo3dnl3",
+      "snippet": {
+        "publishedAt": "2013-12-22T05:41:22Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 12/16 - 12/20",
+        "description": "We'll continue to have Vine contests, but the last contest of 2013 is...REMAKE A 5SF. That's right, pick a 5sf to redo, change whatever you like about it (or don't), and remember to use the hashtag #5sfVine so we can find it! Also...don't just film our 5sf off a computer screen with your phone.\n\nThis week we celebrate Christmas with a couple presents under the tree, we discuss ultra-realistic porn, and the gang has a very special announcement - one you can see more of by clicking here! https://www.youtube.com/watch?v=bQjlBPbqV-U",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pX3eCUZ7vyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pX3eCUZ7vyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pX3eCUZ7vyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pX3eCUZ7vyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pX3eCUZ7vyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 222,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pX3eCUZ7vyw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "pX3eCUZ7vyw",
+        "videoPublishedAt": "2013-12-22T06:37:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TQaLLaKI1yT-kICqbw4Ri8A3jSo",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlRhQmFDWGxGYWg0",
+      "snippet": {
+        "publishedAt": "2013-12-20T01:55:03Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Rad Dudes (feat. Freddie Wong)",
+        "description": "The radness of these dudes was truly legendary. Tales of their rude 'tudes spread far and wide, echoing off every majestic mountaintop, milliseconds before those mountaintops exploded into brilliant fireballs of rock and roll. Wild falcons cawed in time with their mighty heartbeats. A thunderstorm of Clydesdale hooves signaled their every arrival. With but one rapacious wink of their piercing eyes, any radical babe perched on the hood of a Corvette was theirs, heart body and soul. Indeed, their sickness was too unfathomably grand for this world, which explains the whole them-exploding-instead-of-the-car-they-planted-a-bomb-in thing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TaBaCXlFah4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TaBaCXlFah4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TaBaCXlFah4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TaBaCXlFah4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TaBaCXlFah4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 223,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TaBaCXlFah4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "TaBaCXlFah4",
+        "videoPublishedAt": "2013-12-20T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-Q-6arZwXcGJ65vgFOGwdMtXTXk",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnVwcWhwSUF6RFhr",
+      "snippet": {
+        "publishedAt": "2013-12-19T02:24:04Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Fugitive Penguin",
+        "description": "He's spent his whole life on the waddle from the cops. An innocent penguin, framed for a crime he didn't commit, forced to slide from town to town and lay low on his belly. The cops, inevitably, always find him holed up at some dingy motel near a large body of water, and by the time they tell him to freeze, it's too late. Gone like a shot.\n\nHe's a penguin, baby. Freezing is what he does best.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/upqhpIAzDXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/upqhpIAzDXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/upqhpIAzDXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/upqhpIAzDXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/upqhpIAzDXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 224,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "upqhpIAzDXk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "upqhpIAzDXk",
+        "videoPublishedAt": "2013-12-19T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jzdduun4eINeyb-369QMKP8y9do",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjRndVRJMEVxM2Y0",
+      "snippet": {
+        "publishedAt": "2013-12-19T02:11:50Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #268",
+        "description": "A pirate bagel's untrustworthy pants build Monticello with their sick guns, all for his girl back home.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4guTI0Eq3f4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4guTI0Eq3f4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4guTI0Eq3f4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4guTI0Eq3f4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4guTI0Eq3f4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 225,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4guTI0Eq3f4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "4guTI0Eq3f4",
+        "videoPublishedAt": "2013-12-19T02:17:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Krmb5Q9bLg0wsJw2GEe3bN-HlCs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnZPaVNka3F4MWRv",
+      "snippet": {
+        "publishedAt": "2013-12-18T06:17:02Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Backhanded Compliments",
+        "description": "She later had to go to the emergency room, where doctors described her as \"pretty in a weird, indie sort of way.\" The doctors were all Olivia again, in a massively petty quest to insult the shit out of Kelsey using elaborate costume changes and set decorations.\n\nShot on the Digital Bolex! Check out our friends' awesome new 2K camera - pre-orders are happening now! http://digitalbolex.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vOiSdkqx1do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vOiSdkqx1do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOiSdkqx1do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vOiSdkqx1do/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vOiSdkqx1do/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 226,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vOiSdkqx1do"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "vOiSdkqx1do",
+        "videoPublishedAt": "2013-12-18T17:29:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dk9lIDswFPyNt_MFGEGVzoo4HNY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmNieDlRUGswbEtr",
+      "snippet": {
+        "publishedAt": "2013-12-17T05:07:37Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Never Double Bag It!",
+        "description": "The friction caused by double-bagging your groceries causes tiny holes to be torn in the paper, thus letting all the flavor seep out. Then the sidewalk becomes pregnant with flavor, and no one wants that. Not even the sidewalk. What is it going to do with a flavor baby?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cbx9QPk0lKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cbx9QPk0lKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cbx9QPk0lKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cbx9QPk0lKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cbx9QPk0lKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 227,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cbx9QPk0lKk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "cbx9QPk0lKk",
+        "videoPublishedAt": "2013-12-17T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x1t3VhigBheC7ujxXsbsXOakntg",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnl6NVJKbVVUR2hz",
+      "snippet": {
+        "publishedAt": "2013-12-16T19:26:26Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 12/9 - 12/13",
+        "description": "Our Vine contest this week is CHRISTMAS! Anything Christmas-themed, remember to include the hashtag #5sfVine! And happy holidays!\n\nOur friends at SMBC Theater are all set to debut their 40-minute plus magnum opus STARPOCALYPSE! A few 5sf faces (and voices) are in it as well! The first few minutes have been leaked already, but to preorder the rest you should go check it out at http://starpocalypse.vhx.tv!\n\nHead to http://store.5secondfilms.com, and the promo code BOTTOMSUP will net you 25% off all glassware orders! Order by the 20th so you can get it shipped to you before Christmas (US only - International, we will do our best)!\n\nAnd finally, in this week's installment we are joined by Joe Rubinstein of Digital Bolex! Their awesome new 2K RAW camera has been the buzz of the digital camera world, and preorders begin today! Head over to http://www.digitalbolex.com.\n\nWe're shooting a 5sf on their camera as well, so, y'know, that makes us one of the first groups to shoot with it. Kinda cool. Not bragging, but maybe we sort of are.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yz5RJmUTGhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yz5RJmUTGhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yz5RJmUTGhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yz5RJmUTGhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yz5RJmUTGhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 228,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yz5RJmUTGhs"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "yz5RJmUTGhs",
+        "videoPublishedAt": "2013-12-16T20:59:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f25_wuudrDynm1BDgJQWwT8pICc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkVITV83MmJjX2dJ",
+      "snippet": {
+        "publishedAt": "2013-12-16T07:24:46Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Tips For Being Successful",
+        "description": "Buying off the cops is Tip 1. How do you get money to pay off the cops, you may ask? Tip 0: [redacted for lewd and indecent content]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EHM_72bc_gI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EHM_72bc_gI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EHM_72bc_gI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EHM_72bc_gI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EHM_72bc_gI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 229,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EHM_72bc_gI"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "EHM_72bc_gI",
+        "videoPublishedAt": "2013-12-16T08:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2PCoUAyjuxwgu8-uqDSsvDuZxE4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLi1jdU5YU0twNzNV",
+      "snippet": {
+        "publishedAt": "2013-12-15T05:31:22Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Wardrobe Malfunction",
+        "description": "Larry had a long day. He interviewed a bunch of idiots, had a sandwich, talked to a giant bagel, and had to arrange for special transportation so the bagel wouldn't get eaten by seagulls on its way to the bus depot. He was exhausted, and could think of no better place to take a load off than his trusty interviewing chair. Yes, this would be the premium location for tranquility and thoughtful reflection...perhaps, even, for pondering what sandwich he would eat next. But Michael Rousselet was still there, sitting, waiting for him as if no one told him to leave. Maybe those people did leave, and Michael didn't listen. Maybe he buried them under the floorboards in the green room. Either way, Larry wanted to sit down.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-cuNXSKp73U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-cuNXSKp73U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-cuNXSKp73U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-cuNXSKp73U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-cuNXSKp73U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 230,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-cuNXSKp73U"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "-cuNXSKp73U",
+        "videoPublishedAt": "2013-12-15T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VSTJ2QQgvdHtlFzVJ_EccJeRmfo",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlVZUW5FTnE1YjhJ",
+      "snippet": {
+        "publishedAt": "2013-12-12T23:36:11Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Monticello",
+        "description": "Jefferson showed his drawings to Washington, who branded them \"juvenile,\" \"tasteless\" and \"not what this country needs right now.\" Then he went and stole the concept entirely for his own monument. George Washington: History's biggest dickhead.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYQnENq5b8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYQnENq5b8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYQnENq5b8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UYQnENq5b8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UYQnENq5b8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 231,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UYQnENq5b8I"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "UYQnENq5b8I",
+        "videoPublishedAt": "2013-12-13T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zL8xxiIsWgax7FsMzpJ52mnJQkU",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLm1PWVBObHFxVC1J",
+      "snippet": {
+        "publishedAt": "2013-12-12T04:34:28Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Doubloons",
+        "description": "They fetch a fine price on Clown Island, where you can trade for the finest seltzer water and polka dot onesies of pure silk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mOYPNlqqT-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mOYPNlqqT-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mOYPNlqqT-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 232,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mOYPNlqqT-I"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "mOYPNlqqT-I",
+        "videoPublishedAt": "2013-12-12T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GFXRr3RU0mo12PtNgjQIewr3QZA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLms5dzE0TVdhUUVn",
+      "snippet": {
+        "publishedAt": "2013-12-11T06:42:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Guns",
+        "description": "This incident spawned a massive gun control debate that raged its way into the media and Congress. Sweeping legislation was passed that effectively shuttered all gyms, outlawed protein powder and allowed police to arrest anyone deemed a Buff Hazard on sight. Those who protested were shot on sight, because they were flexing too hard while holding their protest signs aloft.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k9w14MWaQEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k9w14MWaQEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k9w14MWaQEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k9w14MWaQEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k9w14MWaQEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 233,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k9w14MWaQEg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "k9w14MWaQEg",
+        "videoPublishedAt": "2013-12-11T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nQqGjhf_Y6X4XEscwoaLRgOIngg",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmQ5WDlHQkpKaG5r",
+      "snippet": {
+        "publishedAt": "2013-12-10T03:30:22Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Great Bagel Debate",
+        "description": "Larry continued to eat his sandwich from last Friday's 5-Second Film, \"5SF: The Interview.\" He munched on it, savoring every bite, and washed it all down with a piping hot mug of cocoa. This was truly the best sandwich he ever had, even if the flavor profile was heightened psychologically by no longer having to interview those idiots at 5-Second Films, which unfortunately was preserved in digital form forever on his Hulu show Larry King Now so that anyone could see it. Finally, he was down to his last savory bite, a mouth-watering blend of mayonnaise, mustard, oven-roasted turkey breast, freshly-baked ciabatta bread, crisp lettuce and ripe juicy tomato slices. He was satiated, and at peace with the universe. It was time to interview a giant talking bagel.\n\nCHECK OUT THE REAL 5SF INTERVIEW: http://tinyurl.com/larryking5sf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d9X9GBJJhnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d9X9GBJJhnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d9X9GBJJhnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d9X9GBJJhnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d9X9GBJJhnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 234,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d9X9GBJJhnk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "d9X9GBJJhnk",
+        "videoPublishedAt": "2013-12-10T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBNVA9-AgIm3dTLI9erAN6GxoxI",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkxSUE8wWGVDa0JR",
+      "snippet": {
+        "publishedAt": "2013-12-09T21:14:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #267",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LRPO0XeCkBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LRPO0XeCkBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LRPO0XeCkBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LRPO0XeCkBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LRPO0XeCkBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 235,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LRPO0XeCkBQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "LRPO0XeCkBQ",
+        "videoPublishedAt": "2013-12-09T21:57:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M7cVlxv8AkzZgRBI7GtSDu6jSj4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkJuMmpRR0IzbXhn",
+      "snippet": {
+        "publishedAt": "2013-12-09T19:26:28Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 12/2 - 12/6",
+        "description": "LASERS is your Vine Contest keyword this week! Be sure to use the hashtag #5sfVine when making 'em!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bn2jQGB3mxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bn2jQGB3mxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bn2jQGB3mxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bn2jQGB3mxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bn2jQGB3mxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 236,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bn2jQGB3mxg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Bn2jQGB3mxg",
+        "videoPublishedAt": "2013-12-09T20:32:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zWwgUBBOh9qdKzPEeT9nly5Devs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlZmLWpjSmMzblJn",
+      "snippet": {
+        "publishedAt": "2013-12-09T07:09:37Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Girl Back Home",
+        "description": "It's the first rule of warfare: Never show your fellow trenchmate a photo of who you're fighting this godforsaken war for back home. Wait, no, I got that wrong. That's the second rule. The actual first rule is don't take a picture of who you're fighting this godforsaken war for at a low angle, or with bad lighting that makes the neck look weird, or when they just had dairy. The third rule is don't die, but that sort of goes without saying.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vf-jcJc3nRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vf-jcJc3nRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vf-jcJc3nRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vf-jcJc3nRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vf-jcJc3nRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 237,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vf-jcJc3nRg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Vf-jcJc3nRg",
+        "videoPublishedAt": "2013-12-09T08:06:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HQbSJRUpb6gHnlAfUSSNMk3lj3o",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlpVRjZCSWUwcHVF",
+      "snippet": {
+        "publishedAt": "2013-12-06T07:06:16Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5SF: The Interview",
+        "description": "Larry's next three cards said \"No really, I have a show to run, please stop talking,\" \"So this is why you guys aren't more successful,\" and \"I'm hungry. I should get up and leave.\" He got up and left, had a sandwich, and wondered who the heck wrote those cards out and, if they had a time machine, maybe they could take him back to before he agreed to do this interview. Then he finished his sandwich.\n\nCHECK OUT THE FULL 5SF INTERVIEW: http://tinyurl.com/larryking5sf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUF6BIe0puE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUF6BIe0puE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUF6BIe0puE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZUF6BIe0puE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZUF6BIe0puE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 238,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZUF6BIe0puE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "ZUF6BIe0puE",
+        "videoPublishedAt": "2013-12-06T08:53:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BkdzWnfiwzFtW0j3q-9KXnZW6tY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLi1vQTNkSW9kcWww",
+      "snippet": {
+        "publishedAt": "2013-12-05T04:16:06Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Revelation at a Comedy Club",
+        "description": "He had known Mikey DeMarco since they were little kids. They played stickball, hit on girls, goofed off in class together, all their life. He knew Mikey was a real card, but he never pegged him for a heckler, the shittiest of all peoples. On his way home, he made a mental note to make better friends, and was never arrested for murder, ever.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oA3dIodql0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oA3dIodql0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oA3dIodql0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oA3dIodql0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oA3dIodql0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 239,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-oA3dIodql0"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "-oA3dIodql0",
+        "videoPublishedAt": "2013-12-05T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xCkSs-laVjEqYjZoPGDmX6c3rd4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmF0TUVZUkRZZmFV",
+      "snippet": {
+        "publishedAt": "2013-12-04T06:54:24Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Paper Or Plastic",
+        "description": "They obviously want you to pick plastic, since picking paper would mean one of them has to rip off their head and offer it to you as a groceries receptacle. But pick paper, because that means you'll have one less creature to battle on your way through the parking lot and into your car.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atMEYRDYfaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atMEYRDYfaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atMEYRDYfaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/atMEYRDYfaU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/atMEYRDYfaU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 240,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "atMEYRDYfaU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "atMEYRDYfaU",
+        "videoPublishedAt": "2013-12-04T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cmPIVaoBJrfuYwD0rOwAtTaWy68",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmxtR21HSFJDUVNZ",
+      "snippet": {
+        "publishedAt": "2013-12-03T06:54:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Ska Band",
+        "description": "You'd think after watching his band, The Skanking Spankers, go from playing Conan during the height of the third-wave boom to opening up a crab festival 12 years later, that he'd get a clue. Or at least, find the clue and pickitup pickitup pickitup.\n\nVine: https://vine.co/5sf\nSubscribe: https://www.youtube.com/5secondfilms\nFacebook: https://www.facebook.com/5secondfilms\nTwitter: https://twitter.com/5sf\nInstagram: https://instagram.com/5sf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lmGmGHRCQSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lmGmGHRCQSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lmGmGHRCQSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lmGmGHRCQSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lmGmGHRCQSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 241,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lmGmGHRCQSY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "lmGmGHRCQSY",
+        "videoPublishedAt": "2013-12-03T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lnj551X8uredRQziuDHkBamCbvA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmhNVWdjdEk0SGk0",
+      "snippet": {
+        "publishedAt": "2013-12-02T08:09:42Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 11/25 - 11/29",
+        "description": "Download our Creed parody ringtone here! http://music.5secondfilms.com\nDon't forget to grab Brian and Paul's Christmas album if you haven't yet! Proceeds for both go entirely towards our last, all-out, insane 5SF send-off film!\n\nAnd our vine contest theme this week is PUPPY. We expect to see some adorable Vines!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hMUgctI4Hi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hMUgctI4Hi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hMUgctI4Hi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hMUgctI4Hi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hMUgctI4Hi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 242,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hMUgctI4Hi4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "hMUgctI4Hi4",
+        "videoPublishedAt": "2013-12-02T23:21:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0vxL2Nv4Mj3m45u5mwFOBtyDn1w",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmpNNmxITlNBSWU4",
+      "snippet": {
+        "publishedAt": "2013-12-02T03:19:45Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Hungry Hungry Hungry Hungry Hippos",
+        "description": "On the day of the last white pellet, Yellow Hippo pulled out his harmonica and trilled a little ditty. It wafted into the boxy night sky, aided only by the small crackling fire that Blue Hippo started for warmth. They shared stories of games past, when life was but a larkish competition. Green Hippo laughed grimly, a small glimmer of hope flickering as fast and intangibly as the billowing flame before them. Then the true Hungry Hungry Hunger set in.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jM6lHNSAIe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jM6lHNSAIe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jM6lHNSAIe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 243,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jM6lHNSAIe8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "jM6lHNSAIe8",
+        "videoPublishedAt": "2013-12-02T08:09:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Bo4MTYgYLJk9C5KjbriyAeMzW70",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnhmMVFRa3ZJazAw",
+      "snippet": {
+        "publishedAt": "2013-12-02T00:31:15Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #266",
+        "description": "There was a Legend at the Hidden Market that Batman broke 9000 on a video game at the Kids Table just before he quit his job as a Valet .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xf1QQkvIk00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xf1QQkvIk00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xf1QQkvIk00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xf1QQkvIk00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xf1QQkvIk00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 244,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xf1QQkvIk00"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "xf1QQkvIk00",
+        "videoPublishedAt": "2013-12-02T02:59:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8IwjLAKkglwnwuzDF_hsnx2c-D8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkZUb2xveVdBMTJr",
+      "snippet": {
+        "publishedAt": "2013-11-29T06:30:15Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Valet's Last Day",
+        "description": "Over the final eight hours he would ever endure as a lowly, put-upon valet at Skdouche's Club & Restaurant, the jaunty fun of pranking people with the worst CD he could find in their car slowly curdled into the depressing realization that a lot of people like Creed and, indeed, paid full price to own a CD of their music. That and the Linkin Park / Jay-Z remixes CD. And even a couple instances of Chocolate Starfish & the Hotdog Flavored Water.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FToloyWA12k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FToloyWA12k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FToloyWA12k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FToloyWA12k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FToloyWA12k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 245,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FToloyWA12k"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "FToloyWA12k",
+        "videoPublishedAt": "2013-11-29T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qNKjRIY_WH25EhkJ6JLcp6Nw1BM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnBlQ0hrT3N3amFF",
+      "snippet": {
+        "publishedAt": "2013-11-27T06:45:53Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Kids Table",
+        "description": "This Thanksgiving, be thankful that you didn't grow up learning how to sling china white heroin so you could buy black market rocket launchers, just to send a message to the Brook Knoll Elementary Kids about who really runs these streets.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/peCHkOswjaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/peCHkOswjaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/peCHkOswjaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/peCHkOswjaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/peCHkOswjaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 246,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "peCHkOswjaE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "peCHkOswjaE",
+        "videoPublishedAt": "2013-11-28T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iKPPsBKmYFoBYdIJLSQyqLSjvV8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk1DNHFSUXZTdEFV",
+      "snippet": {
+        "publishedAt": "2013-11-27T04:06:43Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Streets Of Change",
+        "description": "You can't ever seem to get past the second level (getting a sandwich at the 7-11) without wasting a ton of quarters. Instead, you're just stuck on the Bottle of Booze level again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again, and again. I typed all of that out. Didn't copy-paste once.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MC4qRQvStAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MC4qRQvStAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MC4qRQvStAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MC4qRQvStAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MC4qRQvStAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 247,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MC4qRQvStAU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "MC4qRQvStAU",
+        "videoPublishedAt": "2013-11-27T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pk37mT23WvjW1W4tARCB8JHdPMU",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnlpMHFXT2x0NlBZ",
+      "snippet": {
+        "publishedAt": "2013-11-26T04:34:27Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Batman Vs. The Phantom",
+        "description": "Music by John Robert Matz - www.johnrobertmatz.com\nHe trained his mind and body to fight crime. Overcome all odds. Right all wrongs. But has the World's Greatest Detective met a mystery he cannot solve?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yi0qWOlt6PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yi0qWOlt6PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yi0qWOlt6PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yi0qWOlt6PY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yi0qWOlt6PY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 248,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yi0qWOlt6PY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "yi0qWOlt6PY",
+        "videoPublishedAt": "2013-11-26T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GFQz7h600jQoWa3NRAPrDZ0RDGA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmx6bXdocjJnbmM4",
+      "snippet": {
+        "publishedAt": "2013-11-26T01:31:26Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 11/18 - 11/22",
+        "description": "Get Paul and Brian's Christmas rap album to $500 (we're halfway there already) by Sunday, and they'll shoot a Christmas music video based on one of the songs (fan choice), just for you guys!\n\nhttp://music.5secondfilms.com\n\nThis week's Vine contest theme is THANKSGIVING! And...\nGet 25% any shot glass order in our store when you use the promo code DRINKSGIVING!\n\nRemember, that's THANKSGIVING for the Vine contest, and DRINKSGIVING to get shot glasses for cheaper at our store. Also we love you and Happy Holidays.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lzmwhr2gnc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lzmwhr2gnc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lzmwhr2gnc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lzmwhr2gnc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lzmwhr2gnc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 249,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lzmwhr2gnc8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "lzmwhr2gnc8",
+        "videoPublishedAt": "2013-11-26T02:00:02Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2012,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,2552 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "qpd8ZfIV5rdxnPkBolwdcXuMzN0",
+  "nextPageToken": "CKwCEAA",
+  "prevPageToken": "CPoBEAE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vEd8pXIkj_Si1gjSsDjibuhpzhM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLks0bVlxbVNTVldJ",
+      "snippet": {
+        "publishedAt": "2013-11-25T04:02:05Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Legends of the Hidden Market",
+        "description": "Anyone ever watched this show, wondering why the hell the contestants were so slow to get through the frozen food aisle and the cookware section? The ancient Game Day Doritos Promotional Display Talisman is right there! You have 30 seconds on the clock, you idiots, hustle!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K4mYqmSSVWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K4mYqmSSVWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4mYqmSSVWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K4mYqmSSVWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K4mYqmSSVWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 250,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K4mYqmSSVWI"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "K4mYqmSSVWI",
+        "videoPublishedAt": "2013-11-25T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qzy8BxON5DSVeSlaiFsdPNX-fq4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnJ2bWJZZ2Rxay1V",
+      "snippet": {
+        "publishedAt": "2013-11-23T05:58:11Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Bummer Week 2 in Review",
+        "description": "This year for Bummer Week, we wanted to eschew films that were darkly humorous in favor of more serious subjects, in some cases creating 5-second films that may have upset you or at least bummed you out far more than you would have cared to be when visiting our silly humor site. Many short stories were discussed, and one was left on the cutting room floor for fear that we may have overstepped our boundaries in trying to depict such a horrific act. No, it wasn't the \"R\" word.\n\nWhat we're saying is, we want you to know that while we relish the chance to try different things with this format, we didn't take sadistic pleasure in filming or cutting these. Our site is extremely irreverent most of the time, and we think that's the right tack to take with comedy - but thank you for your patience as we dipped our toes into different waters this last week, one last time. Back to your regularly scheduled goofiness - oh, and by the way, we've got some really great stuff coming up.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rvmbYgdqk-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rvmbYgdqk-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rvmbYgdqk-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rvmbYgdqk-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rvmbYgdqk-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 251,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rvmbYgdqk-U"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "rvmbYgdqk-U",
+        "videoPublishedAt": "2013-11-23T08:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_YUuwW0S5mcqfXe5zx8ruGMWp3g",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjBKQ0lXTnlGR3U4",
+      "snippet": {
+        "publishedAt": "2013-11-22T01:38:42Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Belt",
+        "description": "DISCLAIMER:\nWe understand if this one is troubling and offensive to you. Viewed in the context of the rest of our site, it may seem like we're making light of a serious subject when we have no such intention. Some of us relate to this entry more than we could ever care to. If you're upset, we sincerely apologize.\n\nBummer week is officially over, but abuse continues.\nhttp://www.preventchildabuse.org/index.php",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0JCIWNyFGu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0JCIWNyFGu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0JCIWNyFGu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0JCIWNyFGu8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0JCIWNyFGu8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 252,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0JCIWNyFGu8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "0JCIWNyFGu8",
+        "videoPublishedAt": "2013-11-22T01:43:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5euYk29wi-RYnVNpu8iUhRS4nWY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlR3YlpYeWxYcXln",
+      "snippet": {
+        "publishedAt": "2013-11-17T09:18:26Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "11 Months Sober",
+        "description": "Part 4 of \"Bummer Week.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TwbZXylXqyg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TwbZXylXqyg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TwbZXylXqyg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TwbZXylXqyg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TwbZXylXqyg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 253,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TwbZXylXqyg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "TwbZXylXqyg",
+        "videoPublishedAt": "2013-11-21T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HLjHGeZKVIQC5Unzt3vEce80xqQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlQydU55dEw1Yi1V",
+      "snippet": {
+        "publishedAt": "2013-11-17T09:10:46Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "No",
+        "description": "Part 3 of \"Bummer Week.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T2uNytL5b-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T2uNytL5b-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T2uNytL5b-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T2uNytL5b-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T2uNytL5b-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 254,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T2uNytL5b-U"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "T2uNytL5b-U",
+        "videoPublishedAt": "2013-11-20T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-sV0G65cS1DiBgY_mZ_2MGHlNco",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmdsRXRFZTMwV1ZV",
+      "snippet": {
+        "publishedAt": "2013-11-17T09:01:03Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Final Visit",
+        "description": "Part 2 of \"Bummer Week.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glEtEe30WVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glEtEe30WVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glEtEe30WVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/glEtEe30WVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/glEtEe30WVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 255,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "glEtEe30WVU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "glEtEe30WVU",
+        "videoPublishedAt": "2013-11-19T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PUTXauPsJpYfPNEuz50X6QDgvbQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkxlRVc5QmFidWRn",
+      "snippet": {
+        "publishedAt": "2013-11-18T21:17:45Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "DBPM3 Kickstarter Update 11-19-13",
+        "description": "So much crazy and cool stuff is happening and we wanted to update you!\n\nIf you are a backer of our Kickstarter and have questions please send them to:\nbackers@dudebroparty.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LeEW9Babudg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LeEW9Babudg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LeEW9Babudg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LeEW9Babudg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LeEW9Babudg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 256,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LeEW9Babudg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "LeEW9Babudg",
+        "videoPublishedAt": "2013-11-18T21:32:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4JGtoqgcWtIhr9-8yrHNqljLCWk",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmVJcEpIbUZsS0FR",
+      "snippet": {
+        "publishedAt": "2013-11-18T09:35:39Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week 11/11 - 11/15",
+        "description": "Buy Paul and Brian's Christmas rap album! http://music.5secondfilms.com\nAll proceeds go towards the funding of our epic action short, THE LAST 5SF!\n\nThis week's Vine Contest Keyword is BUMMER, in honor, of course, of the return of Bummer Week. You can make a sad one, or a sad/funny one, or just a Vine where someone screams the word \"Bummer\" into a dead man's ear. We don't mind. Remember to include the hashtag #5sfVine when you post!\n\nThis week, we invent a new word for being married to all the husbands in the world, someone wants their Kickstarter money back, and it's Maria's last day at 5sf. Hey, it's starting to become a bummer already!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eIpJHmFlKAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eIpJHmFlKAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIpJHmFlKAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eIpJHmFlKAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eIpJHmFlKAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 257,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eIpJHmFlKAQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "eIpJHmFlKAQ",
+        "videoPublishedAt": "2013-11-18T21:32:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v8Spq0fpB6U3Dkc6JQp0Usa792s",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkhtVVFxUnJaZlBn",
+      "snippet": {
+        "publishedAt": "2013-11-16T23:13:13Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #264",
+        "description": "After falling off a horse, a movie executive decided to make a film about the joys of hunting puppies with a drugged out spy and a sad robot.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HmUQqRrZfPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HmUQqRrZfPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HmUQqRrZfPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HmUQqRrZfPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HmUQqRrZfPg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 258,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HmUQqRrZfPg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "HmUQqRrZfPg",
+        "videoPublishedAt": "2013-11-18T21:06:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ETL4GzN3yvt_vOEZriyntfwK32M",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnp6WTZWZTVrXzlz",
+      "snippet": {
+        "publishedAt": "2013-11-17T08:50:52Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Gone Since October",
+        "description": "Part 1 of \"Bummer Week.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zzY6Ve5k_9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zzY6Ve5k_9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zzY6Ve5k_9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zzY6Ve5k_9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zzY6Ve5k_9s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 259,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zzY6Ve5k_9s"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "zzY6Ve5k_9s",
+        "videoPublishedAt": "2013-11-18T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A0uCkdptd-T0kBi-vO32dfXZEdI",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmRNRDdmc0dnMnlN",
+      "snippet": {
+        "publishedAt": "2013-11-15T04:52:57Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Sad Robot",
+        "description": "There was a great heaviness filling up his circuits, drowning out the fading sparks in his motherboard. It was time to reboot forever.\n\nStop Motion by: Professor Puppet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dMD7fsGg2yM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dMD7fsGg2yM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dMD7fsGg2yM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dMD7fsGg2yM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dMD7fsGg2yM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 260,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dMD7fsGg2yM"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "dMD7fsGg2yM",
+        "videoPublishedAt": "2013-11-15T08:24:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F5fOL3JUuumOVQ4t9CdOyfL-jtM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjR6SzZZVVJWWmV3",
+      "snippet": {
+        "publishedAt": "2013-11-14T08:01:34Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Spy Who Drugged Me",
+        "description": "Of course, part of being attractive is being good at conversation - revealing the sides of you that are witty, intelligent, inquisitive, unique and engaging - otherwise, you're just another pretty face. So yes, he was expected to talk, and talk they did...into the early hours of the morning, about life, about their pasts, about their families, about the little things they regretted and the good times they had. They talked about each other, their careers and where they felt they were headed in the next few years. They talked about love. But most importantly, they listened.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4zK6YURVZew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4zK6YURVZew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4zK6YURVZew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4zK6YURVZew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4zK6YURVZew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 261,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4zK6YURVZew"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "4zK6YURVZew",
+        "videoPublishedAt": "2013-11-14T08:05:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iYTSYpW-p5RWBgYg-2hh6PxCst4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmZsNXZpbS1vTkJF",
+      "snippet": {
+        "publishedAt": "2013-11-13T06:39:00Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Hunt",
+        "description": "\u200bThe hunters were brought in on charges of animal cruelty and murder, forced to stand before a court of law to explain their actions. Their lawyer was a Welsh Corgi with clearly fake, puppeteered dogs hands jutting out of his little suit, and the arms' constant clacking together of papers and pouring of water, coupled with the Corgi's clearly disinterested head looking in other directions, led the Honorable Judge Pinscher to find the hunters guilty of Grievous and Unlawful Shenanigans, ordering their immediate execution.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fl5vim-oNBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fl5vim-oNBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fl5vim-oNBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fl5vim-oNBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fl5vim-oNBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 262,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fl5vim-oNBE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "fl5vim-oNBE",
+        "videoPublishedAt": "2013-11-13T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5XVy68ZtwG9Mtfdubr9jrj8hqts",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjdQWG50SDh5UVpJ",
+      "snippet": {
+        "publishedAt": "2013-11-12T08:00:34Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "From The Makers Of...",
+        "description": "The Executive Trilogy, of course, was the American remake of the original Swedish trilogy, which was an adaptation of a series of books known as The Literary Agent With Something To Lose Saga. All of these were snuff films or murder diaries, which means two executives and one literary agent are dead, one little girl's thumb has been severed, and, well, as for the daughter in the Swedish version...let's just say that kind of audience can handle their violence.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PXntH8yQZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PXntH8yQZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PXntH8yQZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7PXntH8yQZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7PXntH8yQZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 263,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7PXntH8yQZI"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "7PXntH8yQZI",
+        "videoPublishedAt": "2013-11-12T08:06:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-ws3jcIPUmOHp78fYjmwz-5U2Is",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLi12eS1neWFONXNz",
+      "snippet": {
+        "publishedAt": "2013-11-12T07:10:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #263",
+        "description": "A prank involving cellophane crushes an improv artist's spirits to the depths of a sad political cartoonist who has to defend his life against a meteor using satire.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vy-gyaN5ss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vy-gyaN5ss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vy-gyaN5ss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vy-gyaN5ss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vy-gyaN5ss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 264,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-vy-gyaN5ss"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "-vy-gyaN5ss",
+        "videoPublishedAt": "2013-11-12T07:17:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Blt-Ss_rxsDFM4q7seP88JtQOsE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkl5Vktpa2pLT3Rv",
+      "snippet": {
+        "publishedAt": "2013-11-11T06:11:46Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Questions Of An Equine Nature",
+        "description": "\u200bClem did go on to have that horse ride him. They placed first at the Paralympics, for their flawless display of dressage, and their fearsome skill at horseball and tent pegging. Then, basking in the champagne-soaked glory of their win, Clem got undressaged and pegged his own tent by gnarbling horse balls. It was the greatest sexual awakening either he or his rider/owner, Three Dollar Bill Y'all, would ever experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IyVKikjKOto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IyVKikjKOto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IyVKikjKOto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IyVKikjKOto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IyVKikjKOto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 265,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IyVKikjKOto"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "IyVKikjKOto",
+        "videoPublishedAt": "2013-11-11T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FL5pfn4QefRl_Pv6Ya2sOMTRiMI",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnVuMGg2cUZnZlU0",
+      "snippet": {
+        "publishedAt": "2013-11-11T05:48:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week Brought to You By Google+ - 11/4 - 11/8",
+        "description": "This week's Vine contest theme is KELSEY AND MARIA!\n\nTuesday at 9 PM PST, Pauly P takes your calls and answers your tough relationship questions! Follow us on twitter @5sf for the details!\n\nAnd Wednesday at 7 PM PST, Brian's radio show continues with an episode devoted entirely to trance, curated by Dan! BYOM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/un0h6qFgfU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/un0h6qFgfU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/un0h6qFgfU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/un0h6qFgfU4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/un0h6qFgfU4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 266,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "un0h6qFgfU4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "un0h6qFgfU4",
+        "videoPublishedAt": "2013-11-11T07:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qtTnCSLpgE5LSwyy6CYaggDLkhg",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjNfUDlNZHJSM0RF",
+      "snippet": {
+        "publishedAt": "2013-11-08T04:38:26Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Death Meteor",
+        "description": "Ever since his wife left him to date an astronaut, news anchor Franklin Burns devoted a lot more time to \"wishing death upon humanity, and especially my ex-wife Nancy\" in his segment \"Frank Burns with Frank Burns,\" wherein he would \"burn\" things in a harsh and \"frank\" manner. Frank's wish would be almost fully granted upon the arrival of the world-ending meteor, but for his ex-wife and her new beau Captain Richards, who toasted each other with champagne in zero gravity as the world was eclipsed by fire and ash below.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_P9MdrR3DE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_P9MdrR3DE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_P9MdrR3DE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3_P9MdrR3DE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3_P9MdrR3DE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 267,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3_P9MdrR3DE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "3_P9MdrR3DE",
+        "videoPublishedAt": "2013-11-08T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nuox9Qwf_ueSJ_aofUMuYvko7t4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnNLV0ZHZnJRSzBB",
+      "snippet": {
+        "publishedAt": "2013-11-06T22:48:56Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Defending Your Life",
+        "description": "Police picked him up on the side of Fairmont Ave., trying to hitch a ride back to Nilbog Caverns. He procured a lute from thin air, began to regale the officers with the Tale of Whyte Dragyns, and was promptly pistol-whipped on the back of the head and dragged into the squad car.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKWFGfrQK0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKWFGfrQK0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKWFGfrQK0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sKWFGfrQK0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sKWFGfrQK0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 268,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sKWFGfrQK0A"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "sKWFGfrQK0A",
+        "videoPublishedAt": "2013-11-07T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DOIgT7AnAWUGGvx44-QUKaAR6sw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmt4d19kaU1jWjNr",
+      "snippet": {
+        "publishedAt": "2013-11-06T06:23:09Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Political Cartoon",
+        "description": "The thong, you see, resembles the iron grip that Assad has over the lower buttcheeks of his country.\n\nCartoon by Chris Allison of Toonhole.com!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kxw_diMcZ3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kxw_diMcZ3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kxw_diMcZ3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kxw_diMcZ3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kxw_diMcZ3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 269,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kxw_diMcZ3k"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "kxw_diMcZ3k",
+        "videoPublishedAt": "2013-11-06T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pGsNrr8trdf78URskYUMPIcvhm8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnNPWjh6alZFQ2t3",
+      "snippet": {
+        "publishedAt": "2013-11-05T07:21:33Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Improv Artist",
+        "description": "His finished work, \"BananaDogMichaelChiklisInsideKFCMiddleFingerFuckEveryoneI'mLeaving\" now proudly hangs over one of the big booths at a highly-regarded gastropub. The middle finger is especially prominent in the work, and it sells for $550. No one's bought it yet, but the rare 30\" photo of Dizzy Gillespie blowing into a trumpet flew out the door at $675.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sOZ8zjVECkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sOZ8zjVECkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sOZ8zjVECkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sOZ8zjVECkw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sOZ8zjVECkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 270,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sOZ8zjVECkw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "sOZ8zjVECkw",
+        "videoPublishedAt": "2013-11-05T08:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y_3Ic14sg_CuRaY2BafIfnQEwKs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjMwRE1LTFNiRTdB",
+      "snippet": {
+        "publishedAt": "2013-11-05T00:16:46Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Fun With Cellophane",
+        "description": "\u200bPut some barf in your scarf with this classic cellophane prank. Don't wear a scarf? Get one so that the rhyme works, asshole. Wear it to the toilet when you're sick and make this rhyme work for me, shithead.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/30DMKLSbE7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/30DMKLSbE7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/30DMKLSbE7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/30DMKLSbE7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/30DMKLSbE7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 271,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "30DMKLSbE7A"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "30DMKLSbE7A",
+        "videoPublishedAt": "2013-11-05T00:19:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tt3GGgFX7yg3D1jzun4-Un68g6Q",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLldmVVRZamo0LXJv",
+      "snippet": {
+        "publishedAt": "2013-11-04T07:26:58Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 10/28 - 11/1",
+        "description": "The vine contest theme this week is SUNGLASSES. Hey viners, your future's so bright, you gotta wear...SUNGLASSES\n\nSUNGLASSES get it\n\nAnyway this week Rouss gets a package, we all sext each other some sweet buttcrack pics, and Jurassic Park, J. Edgar Hoover and some cats assists in the transitioning of comments!\n\nGuys, we just passed our 5-year anniversary, and were it not for our Kickstarter stretch goal being met by you guys last summer, we'd be done by now. And that would be a shame because you'd be missing out on the cool stuff we have coming up in November and December! Saddle up and ride into winter with us, one last time!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WfUTYjj4-ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WfUTYjj4-ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WfUTYjj4-ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WfUTYjj4-ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WfUTYjj4-ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 272,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WfUTYjj4-ro"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "WfUTYjj4-ro",
+        "videoPublishedAt": "2013-11-04T08:54:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4o1EoiFx6dp7n7th12FLL-9cs8Y",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkJmSTdfdnd2Wmtj",
+      "snippet": {
+        "publishedAt": "2013-11-04T04:10:58Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf Week In Review #262 Halloween Edition",
+        "description": "Shit got scary. Happy 5 year Anniversary!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BfI7_vwvZkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BfI7_vwvZkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BfI7_vwvZkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BfI7_vwvZkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BfI7_vwvZkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 273,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BfI7_vwvZkc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "BfI7_vwvZkc",
+        "videoPublishedAt": "2013-11-04T04:28:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lWa4pR2X4k3BqAHSbGA0AlcbJHY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLm5fOXh4eWdoaUs4",
+      "snippet": {
+        "publishedAt": "2013-11-01T07:44:52Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "She Won't Stop Crying",
+        "description": "Six seconds later, the crying stopped. And in its place came the silence, a cavernous absence of sound that grew more disconcerting with every minute. Louisa blinked, she turned her head and her tummy shrank and grew with oxygen, but there was no sound of breathing from her mouth, no click of the throat from swallowing. No smile escaped her lips, no matter how many times her father played peekaboo with her. Her parents didn't know who to call or what to say - that their baby seemed somehow less alive?\n\nThroughout the pregnancy, Angela was always distraught over something, usually at night, and Nick was there to comfort her, to tell her it would all be okay once the baby came. But tonight, as she gripped her pillow and burned a hole through the far wall with her gaze, Nick could tell she wasn't distraught. Just distant. None of his usual words worked on her. She got up to leave, his hand brushing against her silky nightgown in a futile attempt to keep her there. As she softly closed the door behind her, he sat up with frustration. And noticed Louisa's stuffed bunny rabbit sitting in the corner of the bedroom.\n\nAngela walked down the stairs, heels scraping against the inlaid carpet and fingertips lightly grazing the banister. She stared straight ahead, never once looking at where her feet were going. Instead her eyes remained fixed on the stained glass window hanging above the front door, beaming in red moonlight that canvassed the whole foyer in crimson. It was the last image she was ever conscious for, as the tumble down the stairs made short work of her neck, leaving her body splayed across the cold tile with nothing but the blood moon to blanket her and her gnarled fingers. If anyone was there to witness it, they would have been astonished at how little noise she made.\n\nNick sat at the edge of the bed, holding the stuffed rabbit in his hands. It had a missing button eye, a floppy ear and a strand of red thread hanging from its nose. Vile hand-me-downs from Angela's parents, he thought to himself. As he stood up to go console her, he felt a blade slash his achilles tendons, like violin strings violently plucked. He collapsed to the floor, bellowing with pain, trying to clutch the backs of his ankles but finding it impossible to summon the strength. Blood pooled outward, soaking the bunny he dropped to its side.\n\nLouisa crawled from under the bed, something she hadn't even been able to do before, with a speed and purpose that made it seem as though she was being puppeteered. Her fingers, which once gently grabbed his hands as he played with her, were now clenched around a whittling knife from his garage.\n\nSix seconds later, the screaming stopped.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_9xxyghiK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_9xxyghiK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_9xxyghiK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_9xxyghiK8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_9xxyghiK8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 274,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n_9xxyghiK8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "n_9xxyghiK8",
+        "videoPublishedAt": "2013-11-01T07:51:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZVG_s5JngDXmSw-fk9YzzVrnalk",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk92SUxpRU1FZXpn",
+      "snippet": {
+        "publishedAt": "2013-10-30T22:52:54Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Dinner is Ready",
+        "description": "His fingers unwillingly gripped the edge of the table, as if he had magnets in his fingertips. With every bone in his body, he tugged and pulled and screamed for help as the knife came closer, sharper, closer, sharper. One last big push with his feet sent him away, tumbling, falling, and eventually crashing into the ceiling.\n\nHe opened his eyes, woozy. The ceiling fan blades whipped past, just centimeters below his face. The bed, his teddy bear, his mother's favorite rug, all remained glued to the floor above - with a bright light shining ever brighter from under the bed. He rolled away and hobbled to his feet, with a sprained ankle that he couldn't begin to cry about now.\n\nThe sharpening of steel still pinging in his ears, he hurdled over the archways of doors and dodged flickering ceiling lamps to find his parents. \"Oh, Kevin. What are you up to now?\" He heard, words his mom said all the time, but now in the most unnatural, programmatic tone. She looked down at him from the kitchen floor, washing a perfectly clean dish with a dry sponge. \"Come now, honey. Dinner's ready. Your father's waiting.\"\n\nHe tripped from walking backwards, hitting his head on the living room ceiling. Adrenaline surging, he picked himself up and ran towards the front door, hanging above him like a portal to nowhere. As he jumped for the doorknob, just barely out of his reach, tears began to stream down his face. Was that really his dad under the bed? He looked almost like him...\n\nNoticing the smoke detector to his left, he stepped on it and pushed off with everything he had, setting it off in the process. A deafening siren trilled through the house, almost drowning out the scraping of the knives. He climbed out onto the awning of the porch, landing with a hard thud on the support beams, and crawled to the edge.\n\nFrom the doorway, he saw his mother caked in red and black skin. Her eyes were ice blue. She held her thumb down on an electric whisk, cradling a mixing bowl. Like her, nothing was inside.\n\n\"Where are you going? Dinner's ready.\"\n\nKevin stepped into the night sky, so full of stars.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OvILiEMEezg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OvILiEMEezg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OvILiEMEezg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OvILiEMEezg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OvILiEMEezg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 275,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OvILiEMEezg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "OvILiEMEezg",
+        "videoPublishedAt": "2013-10-31T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KhsNriSJjRk4-2oC7m0AS-OBlq0",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjczbmFPbnNDRnNJ",
+      "snippet": {
+        "publishedAt": "2013-10-30T10:34:40Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Extra Loud, Post-Pixar Comments of the Week - 10/21 - 10/25",
+        "description": "Since we just finished up speaking on a panel at Pixar last weekend, this week's vine contest is Pixar-themed! Go nuts with whatever Pixar-related stuff you like, and I promise no funny business in next week's CotW video - winners get posted, both on the video and on Facebook!\n\nTo assist in your Halloween revelry, this video comes equipped with one (1) spooktacular spook and is filmed in ear-shattering Peak-O-Meter sensurround! We did not check levels before we barged into recording this sucker. Our apologies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/73naOnsCFsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/73naOnsCFsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/73naOnsCFsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/73naOnsCFsI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/73naOnsCFsI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 276,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "73naOnsCFsI"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "73naOnsCFsI",
+        "videoPublishedAt": "2013-10-30T11:21:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tHVZK8xwPajJwwDsq94q5SoUuW8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlZ2WDdrMlNhVlJn",
+      "snippet": {
+        "publishedAt": "2013-10-30T05:36:55Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Peanut Butter Patty",
+        "description": "It wasn't until a week later that her co-workers noticed she hadn't come in to collect her holiday check. She never socialized much with the people there, or the other tenants in her building. And until the police stopped by on a routine call to question the neighbors, no one picked up on the faint scratching that had seemed to be reverberating through the walls, like the sound of a broken doll being stitched together.\n\nKicking in the door proved as futile as politely knocking on it, even as the wood began to splinter in the middle from the repeated thudding of boots. Finally, someone from a floor down loaned their circular saw, and after dulling two of his blades, they finally cut through the wall of curious fibers, their split ends fraying outwards like cut piano wire. The smell was the first thing they noticed, an odor so foul it seemingly leeched the hallway of oxygen. The second thing they noticed was the tunnel of perfectly circular holes, cut 15 feet wide in the ceilings and floors for a dozen levels going upwards and downwards.\n\nThe third was Ms. Ericson, suspended above the ceiling hole in a thick blanket of cobwebs, eyes and mouth sewn shut. As the flashlight beam swept over her, one of the officers noticed her skin beginning to crawl.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VvX7k2SaVRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VvX7k2SaVRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VvX7k2SaVRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VvX7k2SaVRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VvX7k2SaVRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 277,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VvX7k2SaVRg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "VvX7k2SaVRg",
+        "videoPublishedAt": "2013-10-30T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IAGm4rnWAAfJlxvEtoU8da-Uhiw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkRwc3lzM0pQazgw",
+      "snippet": {
+        "publishedAt": "2013-10-29T07:52:07Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Party Gone Wrong",
+        "description": "Overcome with a new emotion, he got up from the table. He had never done that before. There was always the cake, always the seat, always the singing. Until now. A deafening stutter crawled from his friends' mouths, like a writhing caterpillar. \"Happy Birthday ttttttttttttttttttttt--\" They trilled, frozen in a millisecond in time, fingers twitching so fast they appeared to be in four places at once. He had broken something, he was sure - could he break his way out?\n\nHe ran to the door, but his feet dragged along the ground as if magnetized, unable to lift even a centimeter off the soft, yielding wood. He tried jiggling the handle of the door leading to the back porch. But there never was a back porch. Just a black void behind an immovable glass door, darkness at once seemingly stretching for a thousand miles and right in front of his face like a sheet of black paper.\n\nFrom the living room the sound of his friends grew louder. Ttttttttttttttttttttttttttt.\n\nTtttttttttttttttttttttttttttttttt.\n\nTttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dpsys3JPk80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dpsys3JPk80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dpsys3JPk80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dpsys3JPk80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dpsys3JPk80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 278,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Dpsys3JPk80"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Dpsys3JPk80",
+        "videoPublishedAt": "2013-10-29T09:28:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R_4GL36TPb7-SMCfiLQ9vUjgC4A",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkw5NWJZcmFnb0lj",
+      "snippet": {
+        "publishedAt": "2013-10-27T18:08:08Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Closet",
+        "description": "The next night, he woke up to find an endlessly long tentacle slithering down his throat, restricting his breathing and burning his insides. He followed the tentacle out of the door, grabbing at it with tears streaming down his face, all the way into his son's bedroom and up to the closet door, where the viscous organ continued onward, pinched in the gap between the door and the floor. His hands trembled and his sight grew hazy as he reached for the door handle and weakly pulled it open.\n\nThere was nothing but jackets, shoes and three unassuming walls. He tried to scream, but no sound came out.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L95bYragoIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L95bYragoIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L95bYragoIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L95bYragoIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L95bYragoIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 279,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L95bYragoIc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "L95bYragoIc",
+        "videoPublishedAt": "2013-10-28T07:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YA12vdeObSHpLvqepj0Zr0lO2mQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnN4T1U0MUtlZzlN",
+      "snippet": {
+        "publishedAt": "2013-10-25T03:28:33Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #261",
+        "description": "After a bad break-up, a painting decides to rob pregnant women with the motivation that woman like bad boys but he gets killed by Rowboat cop who drowns him viciously.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sxOU41Keg9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sxOU41Keg9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sxOU41Keg9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sxOU41Keg9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sxOU41Keg9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 280,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sxOU41Keg9M"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "sxOU41Keg9M",
+        "videoPublishedAt": "2013-10-26T21:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bTUbrScBWhXrc9z2z6s1le1qqww",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkswSjJXREMxR0lj",
+      "snippet": {
+        "publishedAt": "2013-10-24T07:34:24Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "RowboatCop: Origins",
+        "description": "The operator neglected to inform the President of OCP that RowboatCops are definitely \"a thing\" in Japan, where people love to order RowboatCops out of vending machines, inflate and fuck them. Honestly, even thinking about it now, that could totally solve all the crime problems in Neo-Detroit.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0J2WDC1GIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0J2WDC1GIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0J2WDC1GIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 281,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K0J2WDC1GIc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "K0J2WDC1GIc",
+        "videoPublishedAt": "2013-10-25T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rAVU7vmK-SoYeKcwrJhgG8ckdXs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmdhUHpNNEV4Yko0",
+      "snippet": {
+        "publishedAt": "2013-10-24T06:00:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "I'm a Nice Guy",
+        "description": "Scrambert would have to learn how to treat women with the same respect he would treat people he didn't want to take to the Bone Zone, or just change his name to Chad Ashton and ride a Harley, since that might possibly work too. Possibly. But honestly Scrambert is a more unique name and he should keep it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gaPzM4ExbJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gaPzM4ExbJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gaPzM4ExbJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gaPzM4ExbJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gaPzM4ExbJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 282,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gaPzM4ExbJ4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "gaPzM4ExbJ4",
+        "videoPublishedAt": "2013-10-24T07:31:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6k1PDP34J7fAldJv-1jk21A4ilw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnBLVE14LXhPYW13",
+      "snippet": {
+        "publishedAt": "2013-10-23T06:02:43Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Stick Up",
+        "description": "\u200bEventually, 2,999 of those 3,000 babies grew up asking who their daddy was and why he wasn't around. The synchronous sound of their asking created a noise so Earth-shaking that it blew out windows for five miles, including a department store that that 1 baby promptly stole three TV sets from.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pKTMx-xOamw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pKTMx-xOamw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKTMx-xOamw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pKTMx-xOamw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pKTMx-xOamw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 283,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pKTMx-xOamw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "pKTMx-xOamw",
+        "videoPublishedAt": "2013-10-23T07:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bpDe0EWQt79e9_NrZHk3fMqPUAs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLklRRWk3cF9WS3Jr",
+      "snippet": {
+        "publishedAt": "2013-10-22T02:19:28Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Painter",
+        "description": "He excels in painting still life, which, after she dies from being completely covered in paint, she will be.\n\nVine: https://vine.co/5sf\nSubscribe: https://www.youtube.com/5secondfilms\nFacebook: https://www.facebook.com/5secondfilms\nTwitter: https://twitter.com/5sf\nInstagram: https://instagram.com/5sf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQEi7p_VKrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQEi7p_VKrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQEi7p_VKrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IQEi7p_VKrk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IQEi7p_VKrk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 284,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IQEi7p_VKrk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "IQEi7p_VKrk",
+        "videoPublishedAt": "2013-10-22T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YNsNLuwpIHAu6VORe4L6lGI6plQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkxqcEVCdlhUbjVB",
+      "snippet": {
+        "publishedAt": "2013-10-21T23:10:49Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 10/14 - 10/18  Masterpiece Theater!",
+        "description": "Welcome to another riveting performance from 5sf COTW Masterpiece Theater!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjpEBvXTn5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjpEBvXTn5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjpEBvXTn5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LjpEBvXTn5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LjpEBvXTn5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 285,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LjpEBvXTn5A"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "LjpEBvXTn5A",
+        "videoPublishedAt": "2013-10-21T23:58:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8y2AMexSxwgacnPotQkZCHAKQZQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnRwQXJWNzc1b05n",
+      "snippet": {
+        "publishedAt": "2013-10-21T16:25:44Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #260",
+        "description": "A monkey heads for Catan to avoid conflict with time traveling pants.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tpArV775oNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tpArV775oNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tpArV775oNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tpArV775oNg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tpArV775oNg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 286,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tpArV775oNg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "tpArV775oNg",
+        "videoPublishedAt": "2013-10-21T16:30:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N-7Z4y26nYlhmvvUlImNX7tLzLs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmk3TUE3QVRmRUpV",
+      "snippet": {
+        "publishedAt": "2013-10-21T00:30:55Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Oculus Split",
+        "description": "Two-player mode isn't any easier, since the hunky rhythm guitarist level inevitably creates feelings of tension between P1 and P2, leading to a huge falling out which can only be solved by playing Super Awkward Birthday Party of Mutual Friend Turbo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i7MA7ATfEJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i7MA7ATfEJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i7MA7ATfEJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i7MA7ATfEJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i7MA7ATfEJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 287,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i7MA7ATfEJU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "i7MA7ATfEJU",
+        "videoPublishedAt": "2013-10-21T07:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-PZMU0jdxYaUBk_69MMFufQHdMs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk9yZXZRZE1IV2VB",
+      "snippet": {
+        "publishedAt": "2013-10-14T02:14:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Put On Your Boyfriend Pants",
+        "description": "He kept thrusting and thrusting, and the light still wouldn't turn on. It was then that he realized he never once actually pleased her in bed, nor would he ever. At least, not until he bought some Dockers like a fucking grown man.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OrevQdMHWeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OrevQdMHWeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OrevQdMHWeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OrevQdMHWeA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OrevQdMHWeA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 288,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OrevQdMHWeA"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "OrevQdMHWeA",
+        "videoPublishedAt": "2013-10-18T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x89j-C9q8_OepV-Zothny-oq_r0",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmx4elZiR2NUT3RR",
+      "snippet": {
+        "publishedAt": "2013-10-14T02:14:08Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Time Traveller Problems",
+        "description": "The concept of getting one's hands completely, utterly, wonderfully dry with this...non-motion activated...thing...called paper towels was so foreign and frightening to him that he warped back to his time in a cold sweat, hydrated a pizza, and watched a few holo-vids about Oceania just to cool down.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lxzVbGcTOtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lxzVbGcTOtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lxzVbGcTOtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lxzVbGcTOtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lxzVbGcTOtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 289,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lxzVbGcTOtQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "lxzVbGcTOtQ",
+        "videoPublishedAt": "2013-10-17T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7FRWbxYXl2QxwyQkg12srWcz2Fs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmlPSUNPRm0wUEhZ",
+      "snippet": {
+        "publishedAt": "2013-10-14T02:12:57Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Tips To Avoid Conflict #115",
+        "description": "After chopping off his fingers to keep from writing anything down, and surgically removing his eyeballs so as not to communicate with his truly expressive peepers, it was official: They were not going to talk about this. Then she set fire to his house, leaving him trapped inside and unable to open any door, call for help or see where an exit might be. And yet, his fiery, melty, crispety crunchety death was STILL preferable to talking about this.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOICOFm0PHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOICOFm0PHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOICOFm0PHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iOICOFm0PHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iOICOFm0PHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 290,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iOICOFm0PHY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "iOICOFm0PHY",
+        "videoPublishedAt": "2013-10-16T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h75X3HIUbMDXdPMWEHRlwVfTi5U",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkNGWWU3Y2RRWWFZ",
+      "snippet": {
+        "publishedAt": "2013-10-15T21:06:21Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5secondfilms Week in Review #259",
+        "description": "A dumpster baby gets dumped by his long term girlfriend, but gets the courage to dive back in the game, find a hot homeless girl and get a job yelling at people on the side walk.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CFYe7cdQYaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CFYe7cdQYaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CFYe7cdQYaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CFYe7cdQYaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CFYe7cdQYaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 291,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CFYe7cdQYaY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "CFYe7cdQYaY",
+        "videoPublishedAt": "2013-10-15T21:14:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VRj9CRojKvMnhlcymezw1DOcDww",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLktkdGhxa00tRml3",
+      "snippet": {
+        "publishedAt": "2013-10-14T02:11:58Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Settlers Of Catan",
+        "description": "Doug's really touchy whenever you bring up his homeland, in any form in any sentence. Don't mention the totally unrelated Yucatan Peninsula, don't say you're going to the \"Cat and Fiddle Pub\" down the street, don't say you met Marc at an auto shop, don't inform him of the storied jazz career of Scat Anderson, don't name your cat Annie...well, you can name your cat Annie, but never ever introduce it as \"my cat, Annie.\" But it's best to avoid naming it Annie anyway. Annie is a shitty name for a cat.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KdthqkM-Fiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KdthqkM-Fiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KdthqkM-Fiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KdthqkM-Fiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KdthqkM-Fiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 292,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KdthqkM-Fiw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "KdthqkM-Fiw",
+        "videoPublishedAt": "2013-10-15T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AAwO4ONgc1rjtbjq9i_Gz5tLDfE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnN5ZEVmRGRCQ2xZ",
+      "snippet": {
+        "publishedAt": "2013-10-14T08:44:16Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 10/7 - 10/11",
+        "description": "This week we determine what's Shrek and what isn't Shrek, Kelsey tries uncover a deep-seated conspiracy over Maria's sneezing habits, Nickelodeon gets insulted, and we play all your awesome Vine submissions involving last week's keyword \"Dumpster!\" There were so many submissions it was hard to choose which one, but we think we picked the best!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sydEfDdBClY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sydEfDdBClY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sydEfDdBClY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sydEfDdBClY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sydEfDdBClY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 293,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sydEfDdBClY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "sydEfDdBClY",
+        "videoPublishedAt": "2013-10-14T09:37:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m32mm9PmZSFGAk3qSsZXEroJOuc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlRtOUJqZEF3MVA0",
+      "snippet": {
+        "publishedAt": "2013-10-14T02:10:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Secret Mission Of The First Monkey In Space",
+        "description": "The terrible Chiquita Shortage of 1949 never made it to history books, and the intrepid monkey Albert II faded away into obscurity. This hasn't stopped Oliver Stone from making a movie uncovering the top-secret operation, however, and with Shia LeBeouf set to play Albert II, hopefully the world will discover how much he meant to our continued survival.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tm9BjdAw1P4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tm9BjdAw1P4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tm9BjdAw1P4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tm9BjdAw1P4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tm9BjdAw1P4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 294,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tm9BjdAw1P4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Tm9BjdAw1P4",
+        "videoPublishedAt": "2013-10-14T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dhYnI4nA8tprKrj0kHbNvAKGklM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlQyaWVhcHFQTG8w",
+      "snippet": {
+        "publishedAt": "2013-10-11T07:19:17Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "A Very Important Dinner",
+        "description": "So what have we learned from Dumpster Week, kids? Well, we learned that no dream is too big, no dumpster too small for a giant green man to shove his abandoned butt baby into it. We learned how to escape from a magical ex-girlfriend's banishment dumpster using frightening, life-altering dream logic and a limber, multifaceted sexual appetite. We learned that no burgeoning love affair, no prelude to an epic romance is too grand in scale to triumph against the sheer nutritional value of an onion. We learned goblins are real. And finally, we learned that when you invite your boss over for dinner, you should always make sure to rip off your toilet seat cover and drape it over a nearby wooden slat of indiscernible origin. Thank you for joining us during this informative, flea-infested week. We promise it will never happen again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T2ieapqPLo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T2ieapqPLo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T2ieapqPLo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T2ieapqPLo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T2ieapqPLo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 295,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T2ieapqPLo0"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "T2ieapqPLo0",
+        "videoPublishedAt": "2013-10-11T07:21:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9E4cDTMXXOCAR7ORITSD9gZUQaA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjlYeVZaWjVxNW1Z",
+      "snippet": {
+        "publishedAt": "2013-10-10T03:03:14Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Homeless Romantic",
+        "description": "She got married to the onion and he ate the chair. Silly homeless people, driven to ruin because of circumstances and forces beyond their control, including but not limited to the universe being a shitty uncaring place.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9XyVZZ5q5mY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9XyVZZ5q5mY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9XyVZZ5q5mY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9XyVZZ5q5mY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9XyVZZ5q5mY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 296,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9XyVZZ5q5mY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "9XyVZZ5q5mY",
+        "videoPublishedAt": "2013-10-10T07:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4HYMmTGUwyN1DPaWNJaYKmlkQy8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnp6Ni1Oc2ZEZkVZ",
+      "snippet": {
+        "publishedAt": "2013-10-09T03:39:19Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Dumpster Diving",
+        "description": "He unfortunately did not qualify for the Olympics, because you need to jerk off a lot of judges in a lot of alleyways to get to that round. So political.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zz6-NsfDfEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zz6-NsfDfEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zz6-NsfDfEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zz6-NsfDfEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zz6-NsfDfEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 297,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zz6-NsfDfEY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "zz6-NsfDfEY",
+        "videoPublishedAt": "2013-10-09T07:45:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NGmBRTDJlg-WZ9oMKJhFl5afQus",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlI2dG81cS1ySDdZ",
+      "snippet": {
+        "publishedAt": "2013-10-08T04:13:04Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Single Again",
+        "description": "Once you get dumped, traditional modes of escape are impossible. The only recourse is to fall in love with one of the other dudes inside, develop a relationship, cheat on him, and then get \"dumped\" by him, which results in you getting transported into one of the used plastic milk jugs. Now, however, you are small enough to escape through the cracks of the locked dumpster gate and live the rest of your life as a 7 cm-tall cheating asshole whom no one should love.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R6to5q-rH7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R6to5q-rH7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R6to5q-rH7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R6to5q-rH7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R6to5q-rH7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 298,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R6to5q-rH7Y"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "R6to5q-rH7Y",
+        "videoPublishedAt": "2013-10-08T07:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7fgShjmdRmNdZC851V_aqOimzDA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnRaT1RyenBZTmlR",
+      "snippet": {
+        "publishedAt": "2013-10-07T05:49:36Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5sf's Comments of the Week - 9/30 - 10/4",
+        "description": "Two things. 1: Our Vine contest this week uses the word \"DUMPSTER.\" When you make your hilarious dumpster Vine, make sure we see it by including the hashtag #5sfVine when you post it!\n\n2: Backed DBPM3, but still haven't gotten your invitation to come download your \"Haddonwannaway\" ringtone? Check your e-mail(s), check your spam folder, check your Facebook message folders if you donated via Facebook, and if it's still not showing up, e-mail US at backers@dudebroparty.com!\n\nThis week we take a look at your Business Phone Vines, Kelsey and Brian get fan mail, we discuss what Now Happenings we've happened, and we evenFAUX GREY SUEDE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tZOTrzpYNiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tZOTrzpYNiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZOTrzpYNiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tZOTrzpYNiQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tZOTrzpYNiQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 299,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tZOTrzpYNiQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "tZOTrzpYNiQ",
+        "videoPublishedAt": "2013-10-07T07:02:31Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2012,
+    "resultsPerPage": 50
+  }
+}

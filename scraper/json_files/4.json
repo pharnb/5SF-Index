@@ -1,0 +1,2557 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "DZGss9r5lhmiW97HttighTTjD9o",
+  "nextPageToken": "CMgBEAA",
+  "prevPageToken": "CJYBEAE",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "68hpgd9DU_9OFnbr3OIWD5CkkzE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkpjMXJOWXJmaHJn",
+      "snippet": {
+        "publishedAt": "2015-03-04T03:40:16Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Heavy Metal Lawyer",
+        "description": "ORIGINAL PROMPT:\nIt starts off in a court room in the beginning of a trial with a judge naming off heinous crimes that the defendant has committed.  Panning over to see the defendant looking like a total scumbag, but not seeing his lawyer.   The Judge finishes reading the crimes and then asks, \"Heavy Metal Lawyer how does your defendant plead?\" Camera cuts to the lawyer who's dressed in flamboyant (and terrible) 80's hair metal spandex and clothes, Heavy Metal Lawyer stands up seriously with a guitar and busts out a ridiculous guitar solo.  Cut back to the Judge looking shocked and enthralled as he exclaims \"Case Dismissed!\" The lawyer goes back to soloing as the defendant celebrates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jc1rNYrfhrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jc1rNYrfhrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jc1rNYrfhrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jc1rNYrfhrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jc1rNYrfhrg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 150,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jc1rNYrfhrg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Jc1rNYrfhrg",
+        "videoPublishedAt": "2015-03-04T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AycD_fRNk8xahEtHamwJmNmtFWE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjJVN1JsQWN2NXE0",
+      "snippet": {
+        "publishedAt": "2015-03-03T18:55:27Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "DO IT",
+        "description": "ORIGINAL PROMPT:\n\"Here’s my 5SF pitch.\nThe idea is based off of a comic I drew years ago.\nhttp://imgur.com/a/q0iFw\n\nTitle: Just do it!\n\nEntire sequence shot in the vein of an athletic apparel company inspirational ad.\nSome visual inspiration about what I'm thinking found here: http://www.youtube.com/watch?v=volIlLCZ3nM\n\nOpening Shot:\n Alarm beeping. Bluish, early morning, pre-dawn light. Sleeping person in bed rolls over (or sits up) and hits alarm off lethargically. Appearance is bedraggled.\n\nSecond shot:\n Person (obviously athletic) back to camera pulling on t-shirt, looking more awake, maybe even a little energetic.\n\nThird shot:\n Foot propped up on edge of a chair. Lacing up running shoes with vigor and purpose. \n \nFourth shot: (or sequence):\n Hops up on chair. Suddenly kicks chair away. Legs now dangling, maybe twitch once or twice.\n \nFinal shot:\n Zoom in on the sneaker logo, legs gently rocking. (if brave use Nike shoes)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2U7RlAcv5q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2U7RlAcv5q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2U7RlAcv5q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2U7RlAcv5q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2U7RlAcv5q4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 151,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2U7RlAcv5q4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "2U7RlAcv5q4",
+        "videoPublishedAt": "2015-03-04T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EFfE_-9Jz_qlA2fnUs-JdTXKNJw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjFUUnB6aGpjTG1V",
+      "snippet": {
+        "publishedAt": "2015-03-02T21:19:28Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Mystery Submission",
+        "description": "ORIGINAL PROMPT:\n\"What I had in mind was having it start out with Brian standing behind someone of the crew sitting at a computer and everybody else sitting around the table (looking slightly frustrated) and Brian says something along the lines of \"Come on, he has to have thought of something\" or \"It isn't that hard to think up a 5SF.\" Maybe dude at the computer types something, then a message comes up on the screen saying \"Iunno,\" Brian yells \"GOD DAMMIT,\" everybody looks annoyed and disappointed--The End. So the joke is I didn't have an idea. Hipsterlicious, I know. We could call it \"Iunno\" or something. I was originally thinking of being on the computer screen through Skype or pre-recorded video and shrugging but I get the feeling that might not fly. Either way, hope you like the idea. Looking forward to seeing the end result, the movie, and all that good stuff!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1TRpzhjcLmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1TRpzhjcLmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TRpzhjcLmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1TRpzhjcLmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1TRpzhjcLmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 152,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1TRpzhjcLmU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "1TRpzhjcLmU",
+        "videoPublishedAt": "2015-03-03T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "otB93FQ4UzvU_vxXMKs4DEborpU",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnJhdmJ1Q0YwX0RF",
+      "snippet": {
+        "publishedAt": "2015-03-02T05:38:03Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "You Got Served",
+        "description": "ORIGINAL PROMPT:\n\"A person opens door expecting their food. It's someone with food but also a summons to appear in court (don't know proper term). Person with food hands food and says \"You've been served.\" along with summons. First person replies \"Nope, this is delivery!\" and summons falls.\n\nI don't know if first guy should slam door and say \"Never learn...\" and you see pile off summons on porch/deck area or summons server should say \"Damn it, I need a new idea.\" (or something like that).\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ravbuCF0_DE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ravbuCF0_DE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ravbuCF0_DE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ravbuCF0_DE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ravbuCF0_DE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 153,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ravbuCF0_DE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "ravbuCF0_DE",
+        "videoPublishedAt": "2015-03-02T11:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-oLeRIJjVbHUEFuLYfAPTNTwBaU",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLl9VOE1selRyczVN",
+      "snippet": {
+        "publishedAt": "2015-02-20T16:39:50Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Rad Rebel Riders",
+        "description": "ORIGINAL PROMPT:\n\"RAD REBEL RIDERS\n\n70s lyrca-clad bike riding all women supeheroes the Rad Rebel Riders fight evil dudes with their superpowers of cooking awesome cakes, bikes, rock music, eating ice cream, drinking slurpees, swearing and punching people in the arm.\n\nYoutube video with most of the ideas:\nhttp://www.youtube.com/watch?v=yooEbf5B0ek\n\nIf you had to press me to lock down some stuff -\nMain characters - 70s style women superheros including Electra Woman and Dyna Girl, and Wonder Woman in her blue full-body swimsuit dragster-style bicycles drinking slurpees, eating rainbow cake and ice cream listening to rock on a boombox\nEvil characters - Extendo fist-man, Red-haired Evil, Malevolent giant ball of aluminium foil\nLocation - Out front of the 7-11 near the bike parking\nPlot: The Rad Rebel Riders looking cool on their bikes, extendo fist man steals slurpee, gets his arm punched really hard. \n\nRed haired evil here http://www.youtube.com/watch?v=5e1rs-5 \"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_U8MlzTrs5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_U8MlzTrs5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_U8MlzTrs5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_U8MlzTrs5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_U8MlzTrs5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 154,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_U8MlzTrs5M"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "_U8MlzTrs5M",
+        "videoPublishedAt": "2015-02-27T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FGQgwmGq8BaeZM_fypLPA45pyzc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlNGVHlORmI0Vy1r",
+      "snippet": {
+        "publishedAt": "2015-02-20T17:38:49Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Second Amendment",
+        "description": "ORIGINAL PROMPT:\n\"Close Up: The Second Amendment of the original constitution as it is being written.\n\nVoice from off screen: \"...the right to keep and bear arms shall not be infringed.\"\n\nZOOM OUT.\n\nAll the FOUNDING FATHERS have BEAR ARMS. (Like, the arms of grizzly bears).\n\nJEFFERSON: \n\"Do you think that's clear enough?\"\n\nWASHINGTON raises one of his bear arms.\n\nWASHINGTON: \n\"Wait. I'm confused. What are keep arms?\"\n\nEND\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SFTyNFb4W-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SFTyNFb4W-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SFTyNFb4W-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SFTyNFb4W-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SFTyNFb4W-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 155,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SFTyNFb4W-k"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "SFTyNFb4W-k",
+        "videoPublishedAt": "2015-02-26T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "02sX-mb665NHjhsiTfeuBExcquA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLllEdGNTSXJyT2lz",
+      "snippet": {
+        "publishedAt": "2015-02-20T16:39:18Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "A Terrible Idea For A 5SF",
+        "description": "ORIGINAL PROMPT:\nI have a terrible idea for a 5SF",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YDtcSIrrOis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YDtcSIrrOis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YDtcSIrrOis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YDtcSIrrOis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YDtcSIrrOis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 156,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YDtcSIrrOis"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "YDtcSIrrOis",
+        "videoPublishedAt": "2015-02-25T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c_awlODxJdIUyWLjKJkzwAbuISA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkpPclZ4NDFKUm53",
+      "snippet": {
+        "publishedAt": "2015-02-20T16:27:52Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Big Test",
+        "description": "ORIGINAL PROMPT:\n\"Several cuts of a student frustratedly studying all night for an exam.\n\nIn the morning, a roommate comes down into the kitchen asks, \"\"Are you ready for your exam?\"\"\n\nStudent replies, \"\"Almost\"\" as he/she pours whiskey into their cereal instead of milk, probably while sobbing softly to themselves.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JOrVx41JRnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JOrVx41JRnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JOrVx41JRnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JOrVx41JRnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JOrVx41JRnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 157,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JOrVx41JRnw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "JOrVx41JRnw",
+        "videoPublishedAt": "2015-02-24T11:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "emjUmjViWTy0ksxfIV-eBaLSZps",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk5NSU5PRW4zYmJj",
+      "snippet": {
+        "publishedAt": "2015-02-02T23:19:40Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Chekhov's Unloaded Gun",
+        "description": "ORIGINAL PROMPT:\n\n\"Friendly Fire\"\n2 guys walk into an abode. The first man says \"Hey, who's gun is that?\" \nThe second says \"That's my roommate's, the one with E.D.\"\nThen first one says \"Oh, it's Checkov's?\"\nThe second responds \"Yeah\"\nThe end",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NMINOEn3bbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NMINOEn3bbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NMINOEn3bbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NMINOEn3bbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NMINOEn3bbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 158,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NMINOEn3bbc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "NMINOEn3bbc",
+        "videoPublishedAt": "2015-02-23T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Gh8hlTA0iAwdCTa9O7Yq9yEthg",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk9weU55MGpEa1ZR",
+      "snippet": {
+        "publishedAt": "2015-02-01T19:36:37Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Zanderflex: Snack Time",
+        "description": "ORIGINAL PROMPT:\n\"MAN:\nI want to eat your pussy!\n\nWhip-pan to WOMAN.\n\nWOMAN:\nIs this a pun?\n\nWhip-pan back to MAN. He is trying to eat a cat. Much laughter ensues!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OpyNy0jDkVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OpyNy0jDkVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OpyNy0jDkVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OpyNy0jDkVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OpyNy0jDkVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 159,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OpyNy0jDkVQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "OpyNy0jDkVQ",
+        "videoPublishedAt": "2015-02-20T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WoqmXLm0EENYoc-Me1M0QXzMlXc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk9mRGdoSzhPU3Aw",
+      "snippet": {
+        "publishedAt": "2015-02-01T19:32:50Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "I Need Space",
+        "description": "ORIGINAL PROMPT:\n\"The scene begins with a couple arguing. The girlfriend then tell him \"Look, I just need some space alright?\" Suddenly an astronaut in a jet pack comes down and says \"Someone looking for me?\"  The girlfriend then runs into the astronauts arms and they fly off.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OfDghK8OSp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OfDghK8OSp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OfDghK8OSp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OfDghK8OSp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OfDghK8OSp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 160,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OfDghK8OSp0"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "OfDghK8OSp0",
+        "videoPublishedAt": "2015-02-19T14:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n-_1knUnAEOvhn55UPM4EYJMRsE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkoyaUw1YkgyOTN3",
+      "snippet": {
+        "publishedAt": "2015-01-31T20:22:44Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Life Is Gonna Be So Sweet",
+        "description": "ORIGINAL PROMPT:\n\n\"Life Is Gonna Be So Sweet\"\n_\n\nShot 1.\n\nBrian, in a graduation gown, steps down off a stage and joins Michael R, also in a graduation gown. They hold diplomas. Behind them, Michael P, as the dean-of-students, hands a diploma to Kelsey, also in a graduation gown. Camera flashes illuminate the stage; a crowd is cheering in the background.\n\nBrian (to Michael R)— \"\"Life is gonna be so sweet!\"\" (Makes \"\"driving\"\" motion with his hands.) \"\"I'm gonna drive my car everywhere!\"\"\n\nAs Brian is speaking, a text message is heard.\n_\n\nShot 2.\n\nA close-up shot of Brian's cellphone is seen. The text message is from Maria, and says, \"\"Brian, someone stole your car!\"\"\n\nBrian— \"\"What, my car got stolen?\"\"\n_\n\nShot 3.\n\nA single low-pitched piano note plays loudly. Brian, still in his graduation gown, is shown in his dorm room (which contains various amusing props). He has either hanged himself, or shot himself (whichever is easier to set up). A cardboard sign around his neck says, \"\"FUCK LIFE.\"\"\n_\n\nThe end.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J2iL5bH293w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J2iL5bH293w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J2iL5bH293w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J2iL5bH293w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J2iL5bH293w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 161,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J2iL5bH293w"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "J2iL5bH293w",
+        "videoPublishedAt": "2015-02-18T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OahoVjMUbdsidYGnXa9rsAhe7JA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmJyMUw4UC11Qi1B",
+      "snippet": {
+        "publishedAt": "2015-02-17T17:31:42Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5SF Presents: #UpForWhatever",
+        "description": "Over the last six years, the 5-Second Films House has become a special place to us. If you watched us grow up in it as we made movies, fought goblins and flew jetpacks along the way, it probably became a special place to you too. So when @Bud Light asked us what \"Up For Whatever\" might mean to us, we had an answer instantly: The 5SF House, our unassuming nexus of creativity, a place possessed with an eerie ability to gather us under one roof and inspire us to create our weirdest, craziest jokes. And this is our tribute to her. Enjoy. #sponsored.\n\n\n\nMusic:\n\"Trouble”\nPerformed by The Most Best\nWritten by Andrew Michael Phan\nPublished by The You Know Who LLC\n(ASCAP)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/br1L8P-uB-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/br1L8P-uB-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/br1L8P-uB-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/br1L8P-uB-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/br1L8P-uB-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 162,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "br1L8P-uB-A"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "br1L8P-uB-A",
+        "videoPublishedAt": "2015-02-17T18:38:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iTTkBBhGaxfS3WD3PlmpRt_xrlY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkpqUWxoRHl5TlJv",
+      "snippet": {
+        "publishedAt": "2015-01-31T20:18:56Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Joey Finds The Internet",
+        "description": "ORIGINAL PROMPT:\n\"Space chicken is sitting in the dining room when Joey walks in and says \"Hey I found the Internet\" (just a box that says the Internet on the side) drops it and goes to lost signal screen.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JjQlhDyyNRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JjQlhDyyNRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JjQlhDyyNRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JjQlhDyyNRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JjQlhDyyNRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 163,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JjQlhDyyNRo"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "JjQlhDyyNRo",
+        "videoPublishedAt": "2015-02-16T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sDRgv8irpBfqm_zQ_TzW1td2jcc",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk5FQ0xnck51UmRV",
+      "snippet": {
+        "publishedAt": "2015-01-31T19:36:24Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "With Regret",
+        "description": "ORIGINAL PROMPT:\n\"Guy thinks it's April Fool's day and tries to do a prank but it's some other holiday instead so it gets really awkward.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NECLgrNuRdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NECLgrNuRdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NECLgrNuRdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NECLgrNuRdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NECLgrNuRdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 164,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NECLgrNuRdU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "NECLgrNuRdU",
+        "videoPublishedAt": "2015-02-13T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4afuarXF3f4l99XkwlmTybuw9Tk",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmxId080RTRHMXNn",
+      "snippet": {
+        "publishedAt": "2015-01-31T00:53:55Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Something About Steaks",
+        "description": "ORIGINAL PROMPT:\n\"What I had in mind was something like this: Indoor-Night, there's some people playing an intense game of poker, someone is about to raise a lot of money, but then another player at the table stops him just before he puts the money down and says \"No, wait! The steaks are getting to high\" and then you see 2 T-bones smoking a joint, they take a puff and say \"Oh no, don't mind us, we're cool bro...\"  You're free to change any part of this idea, the lines, the setting, whatever. My suggestion basically is just the play on words on \"Stake/Steak\", and \"High\" of course. If you like the poker/gambling thing you could change the ending by making the steaks really irritated by something a stoner would care about, and call off the game. It's up to you, I'm sure you can make the best of it all... Best wishes :D\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lHwO4E4G1sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lHwO4E4G1sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lHwO4E4G1sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lHwO4E4G1sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lHwO4E4G1sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 165,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lHwO4E4G1sg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "lHwO4E4G1sg",
+        "videoPublishedAt": "2015-02-12T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IqSNFpv9Memyx718YfZFM6J_VRM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmxRMWFfVUtIZjk4",
+      "snippet": {
+        "publishedAt": "2015-02-02T22:38:34Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Yeti Cop",
+        "description": "ORIGINAL PROMPT:\n\nA  POLICE OFFICER is pinned down by a group of crooks (gangbangers? 1920s gangsters?). He's calling for back up, but it looks like hes not going to get it. He breathes a deep sigh and remembers his family, friends, and dog. He makes peace with his god and is about to go out in a blaze of glory...He is interrupted by the sudden appearance YETI COP who promptly dispatches the crooks and saves the day; getting all the glory. \n\nYeti Cop (he's basically a yeti who joined the police force) is the cop who does things HIS OWN WAY and is described as the LOOSE CANNON of the force. The POLICE OFFICER ( John Silverwater) goes on to be his partner and is the straight laced by the book type.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lQ1a_UKHf98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lQ1a_UKHf98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lQ1a_UKHf98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lQ1a_UKHf98/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lQ1a_UKHf98/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 166,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lQ1a_UKHf98"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "lQ1a_UKHf98",
+        "videoPublishedAt": "2015-02-11T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XhlLD36fv1W9VawSlEszQUc65GA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjk0N0dRU2xod1JF",
+      "snippet": {
+        "publishedAt": "2015-02-10T01:27:20Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Worst 5sf Ever",
+        "description": "ORIGINAL PROMPT:\nOpening shot of Brian sitting in front of his laptop\nBrian: Rousselet, come check this out.  It has to be the worst 5sf idea I've ever read.\nRousselet: Let me see.\nRousselet walks over to take a look\nRousselet: Oh my God you're right.\nCut to an image of this script\nRousselet: This is the worst thing I've ever read.\n\nDescription:\n...and the description he submitted is even worse than the script.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/947GQSlhwRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/947GQSlhwRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/947GQSlhwRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/947GQSlhwRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/947GQSlhwRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 167,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "947GQSlhwRE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "947GQSlhwRE",
+        "videoPublishedAt": "2015-02-10T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lfPjbRE2V1dunPE71Nuc4OxL4f4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLld1VkgyQzdHeEJz",
+      "snippet": {
+        "publishedAt": "2015-01-31T00:27:59Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Time For The Main Event",
+        "description": "ORIGINAL PROMPT\n\"I'm a pro-wrestling fan and I love bad puns. So I thought you could combine these two things into a bigger thing! I don't know if it is a bad-enough pun, but I came up with this:\n\nTwo people are watching wrestling on the TV sitting on a couch, clearly excited. Then, another one (Subject-C) enters the room and mock them saying: \"Are you watching wrestling? What a marks, men!\" Immediately after saying it, we would change to a close up of the face of Subject-C in which two red dots appear between his eyebrows and he tries to look at the dots astonished. Then we switch to the first two people that are now holding rifles (maybe with the clothes changed now, too) as if they were marksmen (got it? :D) and they say a punchline (I can't come up with anything better than \"you can bet on it\". I'm sure you could best it with ease :P). After that, fade to black and a sound of a shot. END.\n\nI hope it is good enough to make some people laugh. Thank you very much for the opportunity to support DBPM3.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WuVH2C7GxBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WuVH2C7GxBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WuVH2C7GxBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WuVH2C7GxBs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WuVH2C7GxBs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 168,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WuVH2C7GxBs"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "WuVH2C7GxBs",
+        "videoPublishedAt": "2015-02-09T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8f0PesBEIr4eFjufXYYXAPoO6Dw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnZ5Yk9xY2dlbFo0",
+      "snippet": {
+        "publishedAt": "2015-01-31T19:31:00Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Mind Palace",
+        "description": "ORIGINAL PROMPT:\n\"Detective is at a crime scene. He says \"I need to enter my *mind palace*\"\n\nHe enters his mind palace to find another murder victim.\n\n*alternate ending*\n\nHe enters his mind palace to find his friends have set up a surprise party. Maybe it's his birthday. Maybe it's a \"\"happy 100th murder!\"\" party.\n\nFeel free to change the idea as much as you want. I'm not married to it at all. Cheers!\"\n\nVine: https://vine.co/5sf\nSubscribe: https://www.youtube.com/5secondfilms\nFacebook: https://www.facebook.com/5secondfilms\nTwitter: https://twitter.com/5sf\nInstagram: https://instagram.com/5sf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vybOqcgelZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vybOqcgelZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vybOqcgelZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vybOqcgelZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vybOqcgelZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 169,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vybOqcgelZ4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "vybOqcgelZ4",
+        "videoPublishedAt": "2015-02-06T14:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WvPe7Z_73IOclmZBoWZKEefK-3o",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnVNWVhsc3MxY0Vv",
+      "snippet": {
+        "publishedAt": "2015-01-30T23:49:19Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Holden Girls",
+        "description": "ORIGINAL PROMPT:\n\"Two old women are sitting on a park bench, knitting.\n\nOne: \"\"Ready yet Helga?\"\"\nTwo: \"\"I sure am Gertrude.\"\"\n\nThey put on the balaclavas they have been knitting and rob a passing jogger at needle point.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uMYXlss1cEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uMYXlss1cEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uMYXlss1cEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uMYXlss1cEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uMYXlss1cEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 170,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uMYXlss1cEo"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "uMYXlss1cEo",
+        "videoPublishedAt": "2015-02-05T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wSEDdnW_FAx0lFlMKGegH3Qtg3I",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnlrd1kyMWZaYVVN",
+      "snippet": {
+        "publishedAt": "2015-01-30T23:34:26Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Hugh Can't Get Enough",
+        "description": "ORIGINAL PROMPT:\n\"Guy named Hugh.\nGets asked 'Hey, how are Hugh today?'\nHugh Dies inside.\nHugh: \"Great thanks man. \"\nSomeone else comes up and makes same name based pun. \n'Sigh'\nEnd.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ykwY21fZaUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ykwY21fZaUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ykwY21fZaUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ykwY21fZaUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ykwY21fZaUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 171,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ykwY21fZaUM"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "ykwY21fZaUM",
+        "videoPublishedAt": "2015-02-04T14:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0XUeOGgeJBY_3rNJATfisAH3Yw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlh3OFhEV21iNVZn",
+      "snippet": {
+        "publishedAt": "2015-01-30T23:26:56Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Best 5SF Ever Written",
+        "description": "ORIGINAL PROMPT\n\"Brian begins looking through the backer-submitted 5sf ideas. Cut to the screen showing every message reading \"\"Olivia and Kelsey make out\"\" or some variation thereof. Brian just shakes his head, shuts his laptop, and walks away.\n\nBut I'm not really a comedy writer, so if there's a better punchline, PLEASE use it!\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xw8XDWmb5Vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xw8XDWmb5Vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xw8XDWmb5Vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xw8XDWmb5Vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xw8XDWmb5Vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 172,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xw8XDWmb5Vg"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Xw8XDWmb5Vg",
+        "videoPublishedAt": "2015-02-03T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rerziLnbr29dIrDP98Icc7zdZgI",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjhJM3pXWWE3bDFJ",
+      "snippet": {
+        "publishedAt": "2015-01-30T23:22:40Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Devil's Delorean",
+        "description": "ORIGINAL PROMPT:\n\"The scene is set where Alec is upset and tells his friend the Devil (Ben), he wishes he could go back in time. The Devil says he can help with that.\n\nThe next bit will take some recording, playing in reverse and learning to talk and move backwards, so the final product can be shot in while acting and speaking in reverse and then reversed so it is \"\"normal\"\".\n(Try saying \"\"neeowf see shnis-hos\"\" and then reversing it you wont regret it).\n\nBrian can come running into the house yelling \"\"turn it off, turrrnn ittt offfff\"\" while Alec is walking into the bathroom to take a reverse toilet break while pleading help. In the meantime, some other 5sf cast could be in background throwing buckets of water on each other while Brian is running though the yard, and flour at each other inside (looks cool in reverse) etc. End with Devil laughing (learned in reverse and then reversed)\n\ntl;dr A 5fs learned and filmed in reverse as to reverse it so it goes forward. Damn Devil.\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8I3zWYa7l1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8I3zWYa7l1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8I3zWYa7l1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8I3zWYa7l1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8I3zWYa7l1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 173,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8I3zWYa7l1I"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "8I3zWYa7l1I",
+        "videoPublishedAt": "2015-02-02T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rfyAchlV_bvFQP-3KE2LmKq-t8U",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlBOTnRTUW1EeFpR",
+      "snippet": {
+        "publishedAt": "2015-01-26T00:33:36Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "DUDEBRO PARTY MASSACRE 3 UPDATE",
+        "description": "Dude Bro Party Massacre III is nearly finalization and has been submitted to festival! We're here with some cool updates on filming Kickstarter 5sf and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PNNtSQmDxZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PNNtSQmDxZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PNNtSQmDxZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PNNtSQmDxZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PNNtSQmDxZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 174,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PNNtSQmDxZQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "PNNtSQmDxZQ",
+        "videoPublishedAt": "2015-01-26T05:42:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_4vdJs5AdqvsQZZoBG1SKN6KiMs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmJlMGFGQXFJaFhr",
+      "snippet": {
+        "publishedAt": "2015-01-20T14:51:16Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Bad Sandwich",
+        "description": "Sometimes I have dreams that I'm back in high school, about to get onstage in \"Inherit the Wind,\" and I've forgotten all my lines as Henry Drummond. I approach the edge of the stage and my father cries, knowing his son is a failure, when I open my mouth and a fully-formed sandwich comes gurgling out.\n\nIt falls into my hands. It's a turkey sandwich with 1 slice of ham for good measure, and ripe cherry tomatoes sliced in half. The lettuce is still wet from being washed, as crisp as the toasted ciabatta bun. The audience is nonplussed, arms folded. They know I don't know my lines. This is not what they paid for.\n\nA cough from the back, signifying nothing. Sometimes it's my mother coughing, other times it's a full-grown bear.\n\nI bring the sandwich to my mouth and begin to take a bite, completely at a loss of what else to do. The crowd erupts in groans of \"Oh come ON\" and \"Of course he'd eat the fucking sandwich\" and \"GET OFF THE STAGE.\" Boos threaten to usurp the student union. And I'm just crying there, mulling the turkey and ciabatta in my mouth. It tastes pretty good.\n\nVine: https://vine.co/5sf\nSubscribe: https://www.youtube.com/5secondfilms\nFacebook: https://www.facebook.com/5secondfilms\nTwitter: https://twitter.com/5sf\nInstagram: https://instagram.com/5sf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/be0aFAqIhXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/be0aFAqIhXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/be0aFAqIhXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/be0aFAqIhXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/be0aFAqIhXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 175,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "be0aFAqIhXk"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "be0aFAqIhXk",
+        "videoPublishedAt": "2015-01-20T15:03:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mkjBzY9W3rktnF4J4M5RzJXqpUw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjV4ODlMYnp6UVNF",
+      "snippet": {
+        "publishedAt": "2015-01-14T02:33:47Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Mile-Cry Club",
+        "description": "When the \"fasten seatbelt\" sign is lit, that means the lavatory is out of use and you must be returned to your seat with your lap belt securely fastened. When the \"unfasten pantsbelt\" sign is lit, that means everyone has to cram into the lavatory and jerk it until the captain has deemed it safe to return to your seats with your lap belt securely fastened.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5x89LbzzQSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5x89LbzzQSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5x89LbzzQSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5x89LbzzQSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5x89LbzzQSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 176,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5x89LbzzQSE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "5x89LbzzQSE",
+        "videoPublishedAt": "2015-01-15T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jHmOblPL0ESDut4UB5Tzin8bDIw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjF4U1BzSkpfcXVn",
+      "snippet": {
+        "publishedAt": "2014-12-31T23:42:53Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Midnight Makeout",
+        "description": "He was shunned from going to the Hipsters NYE Ball, forced to toil in the basement, until his fairy godmother arrived and mumbled, in between drunken belches, \"I'm going to turn a fuckin' pumpkin into a dude this'll be great\"\n\nUpon transforming, his first question was \"What do I do now that I have agency and mobility?\"\n\n\"I dunno, you should like go to the ball. Just like try and make out. It'll be funny as shit\"\n\n\"Fairy Godmother, why don't your sentences end in punctuation like mine?\"\n\n\"Because ending sentences with periods reminds me of the finality of death and with every year that passes we inch closer and closer towards losing our loved ones and the world we grew up knowing dissolves into a cold, unfeeling place that has no room for our increasingly feeble bodies lol\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1xSPsJJ_qug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1xSPsJJ_qug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1xSPsJJ_qug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1xSPsJJ_qug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1xSPsJJ_qug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 177,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1xSPsJJ_qug"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "1xSPsJJ_qug",
+        "videoPublishedAt": "2015-01-01T00:11:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Br7B7-vpPB6q4EhHu3PXWc1Jmz4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmU4QnJLSFZjMW5V",
+      "snippet": {
+        "publishedAt": "2014-12-22T02:51:12Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Frequent Flyer",
+        "description": "Santa doesn't deal well with turbulence, ever since he saw the 1997 movie Turbulence, directed by Robert Butler, written by Jonathan Brett, starring Lauren Holly and Ray Liotta, which takes place after a shootout on a flight transporting prisoners where a stewardess must outwit a smooth-talking serial killer and land the plane herself. After he crash-landed the plane, Santa came under inquiry from the courts who deemed him unfit to fly, much like the 2012 movie Flight, directed by Robert Zemeckis, written by John Gatins, starring Denzel Washington and Nadine Velazquez, the plot of which concerns an airline pilot saving almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.\n\nMerry Christmas and happy IMDB, everyone!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e8BrKHVc1nU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e8BrKHVc1nU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e8BrKHVc1nU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e8BrKHVc1nU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e8BrKHVc1nU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 178,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e8BrKHVc1nU"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "e8BrKHVc1nU",
+        "videoPublishedAt": "2014-12-25T14:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1x0oyh1-sjlU8pZ_UVr3ius5pSs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlpqaFl4RlhYcGZR",
+      "snippet": {
+        "publishedAt": "2014-12-24T03:24:28Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Caroling In The City",
+        "description": "This earned them a pretty stellar rep amongst the neighborhood trick-or-treaters as \"the house that hands out cold, hard, unmarked cash instead of bullshit fucking candy.\" The kids in the neighborhood also tend to turn kids who rat on them into glue. Maybe just don't go to this neighborhood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjhYxFXXpfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjhYxFXXpfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjhYxFXXpfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZjhYxFXXpfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZjhYxFXXpfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 179,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZjhYxFXXpfQ"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "ZjhYxFXXpfQ",
+        "videoPublishedAt": "2014-12-24T13:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D-Jpuu63aTvCKOywN25-hNdTyVI",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlZpUTBoQTJjZlo0",
+      "snippet": {
+        "publishedAt": "2014-12-21T23:39:30Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Red Christmas",
+        "description": "It all started when he received instructions from Alger Hiss to deliver special presents to Ethel and Julius Rosenberg. Sure, it was a little suspicious that they were monogrammed, his-and-hers wiretaps, but Santa was just so busy he didn't even notice. And look, Santa gets a lot of letters every year, at some point there may have been a pamphlet about something, but he honestly couldn't remember. Nevertheless, the excuses weren't good enough, and so he had no choice but to name Rudolph in front of HUAC and the world.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ViQ0hA2cfZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ViQ0hA2cfZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ViQ0hA2cfZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ViQ0hA2cfZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ViQ0hA2cfZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 180,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ViQ0hA2cfZ4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "ViQ0hA2cfZ4",
+        "videoPublishedAt": "2014-12-23T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ov1vZqb52nYPHP_767AUaXLD5SE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkFzYkpWZ2xVLWc4",
+      "snippet": {
+        "publishedAt": "2014-12-19T18:30:10Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Santa's Gotta Brand New Bag",
+        "description": "He waited. Waited in line behind Santa as he went through the X-Ray scanner, hoping he'd have to go through twice. Waited to see if Santa showed up on the \"Naughty\" No-Fly List. The jokes kept trembling at the cusp of his mouth, dancing on the edge of his lips, a smile threatening to take over his face during every minute of Santa's perfectly average airport ordeal. And finally, this was it. The moment he had been waiting for, falling right into his lap. And even after the thrill had passed, and he massaged his jaw in the terminal bar, he laughed to himself, knowing full well he'd have done it all again. In fact, he was so elated he didn't even care that he forgot to bring the bomb on board.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AsbJVglU-g8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AsbJVglU-g8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AsbJVglU-g8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AsbJVglU-g8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 181,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AsbJVglU-g8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "AsbJVglU-g8",
+        "videoPublishedAt": "2014-12-22T06:48:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MgrJMafhgbNMUs4U0eiggEp2-1s",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmlZbG1sLS1mMzJZ",
+      "snippet": {
+        "publishedAt": "2014-12-15T07:41:44Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Don't Disturb The Fish",
+        "description": "This is what happens when you don't properly earmark the funds that are meant to be distributed between the Parks & Wildlife Preservation Society and the Event Planning Committee that's hosting the 2015 X Games.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYlml--f32Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYlml--f32Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYlml--f32Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iYlml--f32Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iYlml--f32Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 182,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iYlml--f32Y"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "iYlml--f32Y",
+        "videoPublishedAt": "2014-12-15T07:47:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bOxU8gi7NyOzOshk3RTHqyH2JX8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmI3c01tOW9Xalh3",
+      "snippet": {
+        "publishedAt": "2014-10-28T08:14:04Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Stay In The Light",
+        "description": "(new) RULES:\nhttp://i.imgur.com/rG1ATwU.jpg\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7sMm9oWjXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7sMm9oWjXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7sMm9oWjXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b7sMm9oWjXw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b7sMm9oWjXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 183,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b7sMm9oWjXw"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "b7sMm9oWjXw",
+        "videoPublishedAt": "2014-10-31T19:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OUm6GsSgcq7FmWYo2_XHImIjWV8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkdpN2VuMTg3N3FF",
+      "snippet": {
+        "publishedAt": "2014-10-28T10:23:05Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Bump In The Night",
+        "description": "Pain becoming pleasure is an interesting phenomenon. For every action there is an equal and opposite reaction, and so it goes that once the mind becomes conditioned to the whipping and the piercing and the scouring, once it comes to crave it, so pleasure thus turns into pain. Soon, the simplest things, such as breathing, feel like you're inhaling glass dust; every swallow, every thrum of the adam's apple, feels like a rock is trapped in your throat, pressing into the glottis and threatening to burst. Even blinking, you can feel your eyelashes threading and splitting again like rows of sharp knives. Soon, the sensation of mites digging and nesting into your eyebrows gives way to a spread of imaginary maggots on your forearms, a hallucination that only be beaten back with more cuts, more whips, more chains. It's a virus that consumes the mind first and travels on to the flesh.\n\nAfter the last deep slash was made on the last untouched vein, their pounding heads drenching the pillows with vile blood, they knew they were damned to circle the endless drain into the afterlife. But it didn't matter. An eternal prison in the attic meant nothing, so long as they were finally set free from the chamber of skin.\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gi7en1877qE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gi7en1877qE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gi7en1877qE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gi7en1877qE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gi7en1877qE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 184,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gi7en1877qE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "Gi7en1877qE",
+        "videoPublishedAt": "2014-10-31T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nZr8FJMnzpYvY0exOgC27y-5-_k",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjZCVS1aZzFROE93",
+      "snippet": {
+        "publishedAt": "2014-10-29T22:20:31Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Appetite",
+        "description": "Shortly after the divorce hearings, his ex-wife disappeared from the public eye. People thought it was strange because she had such a decisive win. He'd been caught red-handed cheating on her with his TA at the university, and even made plans to run away with her on his boat. That was going to be a lot harder since his ex owned it now, along with the house, two of the cars, and custody of their children.\n\nI should have lawyered up sooner, he thought as he pulled into the driveway for perhaps the last time, taking a sip of his watery iced coffee from the red mug she got him so many birthdays ago. Hopefully she wouldn't be here while he came to collect his things, and there was a good chance of that - friends said they had seen her around the docks a while ago, but his boat was still there. Probably selling it, he mused darkly as he made his way through the front door. What's that old saying? The best two days you have as a boat owner are the day you buy it and the day you sell it. His wry smile turned into a chuckle.\n\nAs his eyes adjusted to the darkness of the house, he felt a headache begin its initial throbbing. He reached out to the bookcase to steady himself, but to his eyes, his arms suddenly looked like they stretched 7 feet out from in front of him, and they still missed the shelf.\n\n\"Honey---Pam?!\" He choked out, failing to catch himself from using the baby talk that had come as second nature to him for so many years. His neck burned and his eyes couldn't focus. He heard singing coming from the kitchen, and like a child learning to ice skate, he hugged the wall as he shuffled one foot in front of the next to get there.\n\nHe rounded the corner of the open door to find Pam lying down with her head turned to the side on the black-and-white tile, her arms bound to her sides with rope. She wasn't breathing.\n\n\"Hope you like your steak medium rare, Miles,\" his TA said, turning around holding a pan that sizzled with olive oil. \"You know how much you preferred my cooking to hers.\"\n\nThe last thing he saw as his head hit the floor was the vacant stare in his wife's dead eyes, looking straight through him with hollow irises. And the last thing he heard was the sound of an electric knife whirring on.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6BU-Zg1Q8Ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6BU-Zg1Q8Ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6BU-Zg1Q8Ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6BU-Zg1Q8Ow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6BU-Zg1Q8Ow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 185,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6BU-Zg1Q8Ow"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "6BU-Zg1Q8Ow",
+        "videoPublishedAt": "2014-10-30T19:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OoO7I5z2jsvUXZJXLxULoB4ENS8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk9UV0RMWFRQMHZv",
+      "snippet": {
+        "publishedAt": "2014-10-29T22:10:11Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Tarot Terror",
+        "description": "She predicted the water poisoning. Predicted the spread. Predicted the quarantines. She predicted the skin sloughing off the infected, the camps within the camps, disembodied hands clinging to orange plastic fences while crops burned in the distance.\n\nShe warned of the madness that would consume the country. Fathers caving in their sons' skulls with rocks, wives tying husbands to their beds in a burning house, dogs roving in packs from house to house, indistinguishable from the furious mobs that looted the homes and businesses. Her own husband, opening his mouth to her in the kitchen to say \"What's wrong with me,\" a faint glimpse of his liver rising up from the back of his throat before his insides evacuated completely.\n\nThe last thing she could see, before she became too scared to keep her eyes closed, was a missile rearing its head to face the sun, rising like a new species set to claim the Earth for itself.\n\nThey all laughed at her. What she didn't predict was how much she'd miss the sound of laughing.\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OTWDLXTP0vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OTWDLXTP0vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OTWDLXTP0vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OTWDLXTP0vo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OTWDLXTP0vo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 186,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OTWDLXTP0vo"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "OTWDLXTP0vo",
+        "videoPublishedAt": "2014-10-30T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rAxNtnNrTWy2lhlvR_VLwcffe8s",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLk5TTjBFZldDaW5Z",
+      "snippet": {
+        "publishedAt": "2014-10-29T02:57:09Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Black Street Butcher Strikes Back",
+        "description": "Nobody put it together at first, even though the tape was discovered in an apartment at 414 Canary St. leased out to two (2) disappeared women named Kim Watt and Tina Pleshette. But later, investigators going through evidence managed to find an old dusty VCR tucked away in the confiscated electronics room, and popped it in while they took a break. 25 minutes and a box of Krispy Kreme later, up came the same scene: A blonde getting stabbed in the hallway. A trip to the hospital. \"I'm sorry, I thought you were that slut Chris.\" A sign taped over the bed: \"Get Well Erica.\"\n\n\"Huh, that's interesting,\" chuckling Detective Chris Doakes as he chomped down another cruller, looking at his partner.\n\n\"Most interesting part of this piece of shit so far,\" quipped Det. Erica Ballard.\n\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSN0EfWCinY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSN0EfWCinY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSN0EfWCinY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NSN0EfWCinY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NSN0EfWCinY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 187,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NSN0EfWCinY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "NSN0EfWCinY",
+        "videoPublishedAt": "2014-10-29T19:29:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ldiIr2ixTj5VyGTffChIpJGpVHw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnZmQ0trc0FZVnZj",
+      "snippet": {
+        "publishedAt": "2014-10-29T00:10:19Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Guard Dog",
+        "description": "Contrary to the old way of thinking, dogs don't see in black-and-white. Our research has shown that they're limited to gradients of yellow and blue. Or so we think. Because there are colors humans can't see either, pigments that have no precedent, and when it's filtered through our pitiful little world of red, blue and green, we can't even distinguish the hand reaching out to us from the wallpaper, the tongue slithering back down the toilet drain when we open the lid, the tendrils curling around our hearts in the passenger seat of the car, ready to tear it out at moment's notice. Our brains don't just choose not to process the colors - they choose not to accept that a dimension of chaos, living in tandem with ours, even exists.\n\nSo when we analyze what a dog can see, just looking at the raw data, we're only getting half the story, looking at their eyes through our own. We can't look at this image and see what they see.\n\nhttp://public.media.smithsonianmag.com/legacy_blog/rainbow-2.jpg\n\nNow if I told you what was staring back at you from that image, just inches from your face, you wouldn't believe me. And if you did see it, you wouldn't be around to believe it much longer.\n\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfCKksAYVvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfCKksAYVvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfCKksAYVvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vfCKksAYVvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vfCKksAYVvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 188,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vfCKksAYVvc"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "vfCKksAYVvc",
+        "videoPublishedAt": "2014-10-29T19:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OjAEje0hzAx4BNlhLRIAte4o8DA",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnlOYWR5QlByNHNB",
+      "snippet": {
+        "publishedAt": "2014-10-23T06:08:14Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Dr. Dopplegangers Mystery Mansion",
+        "description": "The good doctor lost his parents in a car accident when he was 11. His sister was slashed to death the following winter when she fell down in a busy ice skating pond. Since that fateful time, he dedicated himself to the work of replicating life, taking back what was stolen from him. Without love or friendship to distract him, his advancements in the field of cloning surpassed what anyone else would have been capable of dreaming of for another 100 years. Blastocysts dissolved, cells were extracted, failure mounting on top of failure, and yet just as quickly the discoveries and solutions kept coming, science seemingly merging with fiction to unlock the next door in a maze of unvisited hallways. Soon the tendrils of a nervous system found their coating in a mulch of skin, wrapping, forming limbs that could kick, thumbs that could curl. As the scalpel carved away the muck between his first fetus’ trembling head and the petri dish, Phase 2 of his work began. Inoculation.\n\nHe began to invite strangers into his home, daring them to guess the secrets of his incredible findings, letting them scoff and deride his accomplishments as parlor tricks. All the while, he used their cynicism as fodder to keep his likenesses inside, beating it into their heads that the world outside hated and denied them, that he was their only friend, their father, their brother, their Good Doctor. For lack of a frame of reference - there was no TV, and no books in the library but those devoted to science - they had no choice but to obey.\n\nFrom there, the years dragged on, and the clones began to show signs of fatigue. Bloodshot eyes and coughing, constant coughing from every corner of the house. But the Doctor was not In. It was winter, and the pond outside the window had frozen over again. He stared unblinking out the window, more preoccupied with a little girl’s laugh he thought he heard than the coughing and moaning all around him. Until a hand gripped his shoulder.\n\n“What have you done, boy?”\n\nThe doctor turned to see an older, taller man with his face, charred from some horrible burn, blood caked on his ears and down his chest, body covered in black tire tracks, shuffling towards him. Next to him, another clone in a pink dress and pearls, with his jaw snapped off, moaned and dragged closer and closer.\n\n“What have you done to us?”\n\nThe Doctor bumped up against the window when a pair of ice-cold hands burst through the glass to grab him. They belonged to another clone, wracked with 8-inch-long gashes across his forehead, throat and eyes. He whispered in the Doctor’s ear:\n\n“You will always be alone.”\n\nWhen the Doctor came screaming to, he was soaked in sweat on the couch by himself. Not a creak in the floorboards to be heard, no coughing, no broken window, no one to just the crackling of the fireplace and a soft rustle of his unfinished papers. He sipped his coffee and, with a heavy sigh, he took the papers to his study. There was work to be done.\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yNadyBPr4sA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yNadyBPr4sA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yNadyBPr4sA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yNadyBPr4sA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yNadyBPr4sA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 189,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yNadyBPr4sA"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "yNadyBPr4sA",
+        "videoPublishedAt": "2014-10-28T19:04:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h50O2JZF-YxRSi7GQYUEqrtMhJs",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLlVWMnp0LXNYUGlJ",
+      "snippet": {
+        "publishedAt": "2014-10-23T05:46:25Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Beware",
+        "description": "The next morning, a set of five pinched fingers slowly outstretched, extending their reach in all directions. An eye opened with the rising of the sun, its pupil dilating and adjusting to the dawning light. A set of lips crackled apart, letting warm breath escape from the stalk.\n\nThe new additions to the rose garden were coming along splendidly.\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UV2zt-sXPiI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UV2zt-sXPiI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UV2zt-sXPiI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UV2zt-sXPiI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UV2zt-sXPiI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 190,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UV2zt-sXPiI"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "UV2zt-sXPiI",
+        "videoPublishedAt": "2014-10-28T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D6eTX85QGVtHhNo7utK7gY0kyz4",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnNTSVk2YkxUc0JF",
+      "snippet": {
+        "publishedAt": "2014-10-23T06:12:18Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Late Mr. Prestons Wife",
+        "description": "Alistair Preston never appeared to her in the flesh again, in the years that followed. Sometimes she’d catch a reflection in the glass as a door closed shut, other times in the gleaming polished lancewood of a passing coach, but in the split second she saw him, all she could make out was the suit he was buried in, with beams of light blooming from the collar and cuffs. In the Christmas of 1899, the same year she donated her husband’s vast coal fortune to the church and moved in with her sister in San Jacinto, she felt a discordance spreading beneath her feet, like her nerves were violin strings being harshly bowed. Sitting in the kitchen looking into her tea, she saw a ripple trembling outward, and fleetingly glimpsed a hand in the reflection, reaching for her, about to crack the surface of the thin green liquid.\n\nThe crucifix hanging in the foyer shook loose, and as it touched the ground, the earth split open, swallowing the cross, a bearskin rug, a bookshelf, and more every passing second. The knife block in the kitchen tipped over, sending knives spinning up and down the linoleum floor as the house rocked one way, then the other. She hid behind a chair as the roof caved in, the knives sliding past her feet, the candles catching the Christmas holly on fire. She screamed for her sister but didn’t dare move to the drawing room to be with her. As she would soon discover when the earthquake subsided and she stumbled there, it was a wise move. The crossbeams had splintered above, keened down and impaled her sister through the chest, pinning her to the center of the room in a kneeling position, leaking red.\n\nShe nursed a cut on her foot, stained in tea, and wailed up the stairs to the bathroom, which hissed with steam. When she flung open the door, she was astonished to see it was the only room completely untouched in the earthquake. Pristine, even. The other thing that was curious: The sink was filling up with hot water, and just as the water was about to crest over the edge and spill onto the floor, it shut itself off.\n\nShe choked back a sob and slowly limped towards the sink, the long thin mirror dulling her reflection with a thick coat of steam. Gripping the sides of the sink, she knew what had to be done. She pulled her hair back, clenched her teeth, and bent over, dipping her face in.\n\nWhen she adjusted to the heat, she opened her eyes, to find Alistair staring inches from her face. Everything else was darkness.\n\n“Hello, Dear,” he said without moving his lips. “Open your mouth. Let me show you what I found down there amongst the coal.”\n\nFiremen arrived on the scene hours later to the shattered house on the hill, seeing for the first and last time in their lives the sight of a woman drowned whilst standing up. It took the strength of three of them to pull her body from the sink, and when they fell backwards with her frozen body, her face looked like she was at peace, like she had seen something beautiful in the water.\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sSIY6bLTsBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sSIY6bLTsBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sSIY6bLTsBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sSIY6bLTsBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sSIY6bLTsBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 191,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sSIY6bLTsBE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "sSIY6bLTsBE",
+        "videoPublishedAt": "2014-10-27T19:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wi8YFoZ26p0KuJO2YL4kHlAcmJY",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLkVwY21ZRXBwQU5Z",
+      "snippet": {
+        "publishedAt": "2014-10-23T06:37:22Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Tone Death",
+        "description": "Without the musical genius of The Great Contini, Susan would have never had a singing career. indeed, she would have had nothing - born a girl from the streets, she would as surely have left a damp corpse on those same cobblestones if Contini hadn’t found her singing near a brothel some years back. And in the early going with him, life was easy. The parties, the dresses, the champagne. The champagne.\n\nThe broken champagne glasses. The way he’d slap her in full view of the party, sending her upstairs for her insubordinate behavior. The laughs that echoed up the staircase as he no doubt told some boozy joke to sweep all the ugliness under the rug for their friends. And the way he’d sweet talk her after everyone left, a little-boy’s lilt that oozed conciliation. “You keep me together, Susan,” he’d insist, crocodile tears rolling down his cheeks, using his favored metaphor for her. “You’re my glue.”\n\nYes, in a way, Susan felt she owed her life to him, which would explain the lack of struggle she gave when he wrapped his hands around her throat one week ago. Were he not bleary and blinded with drunken rage, Contini would have thought it odd that her eyes looked so calm even as air seemed to trickle from every pore and duct in her face, like a balloon deflating ever so slightly. Better here than on the streets, he thought to himself with a snicker as he dragged her body into the closet under the stairs.\n\nThe afterlife posed many problems for Susan. Rooms she couldn’t escape, darkness she couldn’t penetrate, people she couldn’t communicate with. There was only this mansion, there was only Contini. And whilst one of them was still living, there was composing to be done. And so the hours beat on, a crumpled page here, a shattered tumbler there. And always, always the pounding of those fists on the keys. But one day, Susan no longer cared if what she did next sent her to Heaven or to Hell. Anything would be better than this house.\n\n“Dammit Susan, for the 50th time-” he bellowed, fists coming down hard on the organ, rattling his glass of scotch. Only this time, his fists didn’t come up to point fingers, or take a swig, or slap the sheet music off the stand. They remained rigid, shaking, stuck to the keys.\n\nHis joints hardened, seemingly crystallizing, elbows bolting themselves to his ribs, blood beginning to trickle from his clenched fingers piercing the pads of his jittering, unmovable hands. Contini tried standing, but the force of his legs pushing against his frozen arms succeeded only in snapping the bone clean off, so that his forearms seemed to bend backwards like a mantis. A roar of pain escaped his mouth as he collapsed forward onto the organ. His cheek became affixed to the cherry wood of the organ, slurring his screams as every twist and exertion seemed to fasten him to the instrument more and more. His ear, his neck, his chest, every part of him crumpled and folded into the body of his most prized possession, the screams merging with the ever-present drone of the sour notes his bleeding fists continued to pound on. It was hard to tell which body was making which sound.\n\nSusan walked over to Contini, or what was still left of him, as his skin began to fracture his bones, then shatter them, then pull them closer and closer into the organ, like a porcelain doll being crushed under an invisible foot. One bugged eye, threatening to pop loose from a quivering, stretching socket, stared at her in fear, the last emotion he could muster before he became nothing but a pile of clothes.\n\n“You always said I was your glue, darling,” she growled.\n\nHis life force subsumed entirely into the organ, the horrendous dirge of notes giving way to a geyser of blood fountaining from the pipes above, coating the ceiling in a shade of crimson and dripping down his sheet music. It was The Great Contini’s final piece - and some would say his most satisfying.\n\nThis video was shot at the YouTube Space House of Horrors with @Legendary Entertainment\n#HouseOfHorrors\n#YouTubeSpaceLA\n@legendary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EpcmYEppANY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EpcmYEppANY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EpcmYEppANY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EpcmYEppANY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EpcmYEppANY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 192,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EpcmYEppANY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "EpcmYEppANY",
+        "videoPublishedAt": "2014-10-27T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EE_wMin0SiYtgGcwMSSGR-NSFOw",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLl9BQjRnRFkxME00",
+      "snippet": {
+        "publishedAt": "2014-10-15T02:24:49Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "The Front Page",
+        "description": "Delve into the world of the bizarre and highly dedicated employees of The Weekly Gazette, a newspaper-turned-blog that specializes in stories of the paranormal, supernatural and just plain weird.\n\nCheck out all the New Form Digital Incubator Shorts here: http://www.youtube.com/playlist?list=PLKThczLKn-kMojGIbbdK87yiog0767hzW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_AB4gDY10M4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_AB4gDY10M4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_AB4gDY10M4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_AB4gDY10M4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_AB4gDY10M4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 193,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_AB4gDY10M4"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "_AB4gDY10M4",
+        "videoPublishedAt": "2014-10-16T13:02:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6aIZ0GQOYYF4clNPfV_Mvq71GKE",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLjJzU1Jac2dSeThV",
+      "snippet": {
+        "publishedAt": "2014-10-13T09:05:58Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Rodolfo St  Tenedor, Heartthrob Priest",
+        "description": "Rodolfo \"Dolph\" St. Tenedor was known far and wide for never pulling off a single successful wedding before lust and carnage took over. He did preside over a mostly successful bris, however, even though he wasn't Jewish, so no one's really sure if that counts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2sSRZsgRy8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2sSRZsgRy8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2sSRZsgRy8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2sSRZsgRy8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2sSRZsgRy8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 194,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2sSRZsgRy8U"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "2sSRZsgRy8U",
+        "videoPublishedAt": "2014-10-13T20:12:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zyUAxyRljddbrT3X-ciJ4AX5LxI",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmFwRkJtWkFqQXpZ",
+      "snippet": {
+        "publishedAt": "2014-10-08T17:27:55Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "EAT THE CAT",
+        "description": "A man is trapped in a room with a cat and no other source of food, will he eat it?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/apFBmZAjAzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/apFBmZAjAzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/apFBmZAjAzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/apFBmZAjAzY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/apFBmZAjAzY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 195,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "apFBmZAjAzY"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "apFBmZAjAzY",
+        "videoPublishedAt": "2014-10-08T18:12:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cxUUxIrlo8Tqmmo1Zl83sj63qjQ",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLndjTThPUGVHVHpF",
+      "snippet": {
+        "publishedAt": "2014-10-07T13:39:05Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "DUDE BRO PARTY MASSACRE 3 UPDATE + Comments Of The Week 10/07/2014",
+        "description": "Backer Portal \nhttp://backers.dudebroparty.com/login/\n\nChoose Wisely Commercials \nhttps://www.youtube.com/watch?v=OI2_3WzJr_Y&list=PLrbQTM5j6LLD6yMFVUSKbuWlxgebSTosB\n\nSweet Ass Variety Article \nhttp://variety.com/2014/digital/news/digital-studio-formed-by-discovery-brian-grazer-and-ron-howard-pacts-with-14-youtube-creators-1201259314/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wcM8OPeGTzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wcM8OPeGTzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wcM8OPeGTzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wcM8OPeGTzE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wcM8OPeGTzE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 196,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wcM8OPeGTzE"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "wcM8OPeGTzE",
+        "videoPublishedAt": "2014-10-07T15:50:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7UWCALi05Fld-gtmqbR4yUpTlZM",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnk0UVFiZFEwRFQ4",
+      "snippet": {
+        "publishedAt": "2014-09-25T20:06:00Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Hot Rod",
+        "description": "Admittedly, it needs to be plugged in more often than a Tesla, but that just means it needs wifi and artisanal fair trade coffee every 35 feet.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y4QQbdQ0DT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y4QQbdQ0DT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y4QQbdQ0DT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y4QQbdQ0DT8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y4QQbdQ0DT8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 197,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y4QQbdQ0DT8"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "y4QQbdQ0DT8",
+        "videoPublishedAt": "2014-09-25T20:16:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MDAIIVsQ8xJN024cPl5rJAlTLq8",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLnRTUnVSbVRkYUdz",
+      "snippet": {
+        "publishedAt": "2014-09-02T18:52:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "Like Father Like Son",
+        "description": "He likes fathers, he likes sons, he likes sisters, he like cousins. Basically what we're saying is he needs to be in prison before he thought-bangs the whole neighborhood.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tSRuRmTdaGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tSRuRmTdaGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tSRuRmTdaGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tSRuRmTdaGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tSRuRmTdaGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 198,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tSRuRmTdaGs"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "tSRuRmTdaGs",
+        "videoPublishedAt": "2014-09-02T20:50:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "du7i4DIcGk0250E758ErEWCCV2g",
+      "id": "VVVHOWxOaFZxazlsdUZMeEJLRHp1TzlnLmRMY3V2T3VVbDJr",
+      "snippet": {
+        "publishedAt": "2014-08-21T18:31:51Z",
+        "channelId": "UCG9lNhVqk9luFLxBKDzuO9g",
+        "title": "5SF Does The ALS Ice Bucket Challenge",
+        "description": "DONATE: http://www.alsa.org/donate/ \n\nOur friend Clara Aranovich nominated 5secondfilms.com in her ice bucket challenge, and the challenge was accepted! Due to the historic drought in southern California we he had to get a little...creative.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dLcuvOuUl2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dLcuvOuUl2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLcuvOuUl2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dLcuvOuUl2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dLcuvOuUl2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5secondfilms",
+        "playlistId": "UUG9lNhVqk9luFLxBKDzuO9g",
+        "position": 199,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dLcuvOuUl2k"
+        },
+        "videoOwnerChannelTitle": "5secondfilms",
+        "videoOwnerChannelId": "UCG9lNhVqk9luFLxBKDzuO9g"
+      },
+      "contentDetails": {
+        "videoId": "dLcuvOuUl2k",
+        "videoPublishedAt": "2014-08-21T18:36:02Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2012,
+    "resultsPerPage": 50
+  }
+}
