@@ -1,5 +1,6 @@
 import json
 import os
+from datetime import datetime
 
 # local path to json file directory
 json_directory = "scraper/json_files"
@@ -32,10 +33,12 @@ for filename in os.listdir(json_directory):
 
             # video variables
             title = key['snippet']['title']
-            date = key['snippet']['publishedAt']
+            timestamp = key['snippet']['publishedAt']
             description = key['snippet']['description']
             thumbnail = key['snippet']['thumbnails']['default']['url']
             videoid = key['snippet']['resourceId']['videoId']
+
+            date = datetime.strptime(timestamp, '%Y-%m-%dT%XZ')
 
             print(title)
             print(date)
