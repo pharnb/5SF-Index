@@ -1,18 +1,29 @@
 import json
 import os
 
+# local path to json file directory
 json_directory = "scraper/json_files"
 
 for filename in os.listdir(json_directory):
     #  filename = os.fsdecode(file)
     if filename.endswith(".json"):
+        
+        # write full path to json file
         fullpath = json_directory + "/" + str(filename)
-        print(fullpath)
+        # print(fullpath)
         jsonfile = open(f"{fullpath}", encoding="utf-8")
+
+        # read json file 
         data = json.load(jsonfile)
-        data_pretty = json.dumps(data, indent=2)
-        print(data_pretty)
-        break
+        
+        # pretty print, not that necessary since I can open in notepad++
+        # data_pretty = json.dumps(data, indent=2)
+        # print(data_pretty)
+
+
+
+
+        break # temporary stop to work with only 1 file right now
         #  print(os.path.join(json_directory, filename))
         #  continue
     else:
