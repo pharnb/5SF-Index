@@ -3,6 +3,8 @@ import os
 
 # local path to json file directory
 json_directory = "scraper/json_files"
+# youtube url header
+youtubeurl = "https://www.youtube.com/watch?v="
 
 for filename in os.listdir(json_directory):
     #  filename = os.fsdecode(file)
@@ -26,7 +28,21 @@ for filename in os.listdir(json_directory):
 
         # loop through each video entry in file
         for key in data['items']:
-            print(key)
+            # print(key['snippet']['description'])
+
+            # video variables
+            title = key['snippet']['title']
+            date = key['snippet']['publishedAt']
+            description = key['snippet']['description']
+            thumbnail = key['snippet']['thumbnails']['default']['url']
+            videoid = key['snippet']['resourceId']['videoId']
+
+            print(title)
+            print(date)
+            print(description)
+            print(thumbnail)
+            print(youtubeurl + videoid)
+
             # key_pretty = json.dumps(key, indent=2)
             # print(key_pretty)
             break
