@@ -20,7 +20,16 @@ for filename in os.listdir(json_directory):
         # data_pretty = json.dumps(data, indent=2)
         # print(data_pretty)
 
+        # pretty print first video entry
+        # data_pretty = json.dumps(data['items'][0], indent=2)
+        # print(data_pretty)
 
+        # loop through each video entry in file
+        for key in data['items']:
+            print(key)
+            # key_pretty = json.dumps(key, indent=2)
+            # print(key_pretty)
+            break
 
 
         break # temporary stop to work with only 1 file right now
