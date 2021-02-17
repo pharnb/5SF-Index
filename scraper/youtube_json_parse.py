@@ -1,11 +1,18 @@
 import json
 import os
 from datetime import datetime
+from sqlalchemy import create_engine
+
 
 # local path to json file directory
 json_directory = "scraper/json_files"
 # youtube url header
 youtubeurl = "https://www.youtube.com/watch?v="
+
+# sqlalchemy connect to rds server
+rds_connection_string = "postgres:password@postgresdb.cbtoq3riq9z0.us-west-1.rds.amazonaws.com:5432/fivesecondfilms"
+engine = create_engine(f'postgresql://{rds_connection_string}')
+
 
 for filename in os.listdir(json_directory):
     #  filename = os.fsdecode(file)
@@ -48,6 +55,10 @@ for filename in os.listdir(json_directory):
 
             # key_pretty = json.dumps(key, indent=2)
             # print(key_pretty)
+
+            
+
+
             break
 
 
