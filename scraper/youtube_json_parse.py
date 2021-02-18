@@ -1,7 +1,20 @@
 import json
 import os
 from datetime import datetime
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, Column, String
+from sqlalchemy.orm import Session
+from sqlalchemy.ext.declarative import declarative_base
+Base = declarative_base()
+
+
+# define youtube data table
+class youtube(Base):
+    __tablename__ = 'youtubedata'
+    title = Column(String, primary_key=True)
+    date = Column(String)
+    description = Column(String)
+    thumbnail = Column(String)
+    url = Column(String)
 
 
 # local path to json file directory
@@ -10,8 +23,11 @@ json_directory = "scraper/json_files"
 youtubeurl = "https://www.youtube.com/watch?v="
 
 # sqlalchemy connect to rds server
-rds_connection_string = "postgres:password@postgresdb.cbtoq3riq9z0.us-west-1.rds.amazonaws.com:5432/fivesecondfilms"
+# rds_connection_string imported
+from miscvar import *
 engine = create_engine(f'postgresql://{rds_connection_string}')
+session = Session(engine)
+
 
 
 for filename in os.listdir(json_directory):
@@ -44,6 +60,7 @@ for filename in os.listdir(json_directory):
             description = key['snippet']['description']
             thumbnail = key['snippet']['thumbnails']['default']['url']
             videoid = key['snippet']['resourceId']['videoId']
+            url = youtubeurl + videoid
 
             date = datetime.strptime(timestamp, '%Y-%m-%dT%XZ')
 
@@ -51,12 +68,15 @@ for filename in os.listdir(json_directory):
             print(date)
             print(description)
             print(thumbnail)
-            print(youtubeurl + videoid)
+            print(url)
 
             # key_pretty = json.dumps(key, indent=2)
             # print(key_pretty)
 
-            
+            session.add(youtube(title=title, date=date, description=description, thumbnail=thumbnail, url=url))
+
+            session.new
+            session.commit()
 
 
             break
