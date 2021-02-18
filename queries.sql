@@ -1,15 +1,15 @@
-DROP TABLE YoutubeData;
-DROP TABLE IMDBData;
+DROP TABLE youtubedata;
+DROP TABLE imdbdata;
 
-CREATE TABLE YoutubeData(
-	Title VARCHAR (100) NOT NULL,
-	Date TIMESTAMP NOT NULL,
-	Description TEXT NOT NULL,
-	Thumbnail VARCHAR (50) NOT NULL,
-	URL VARCHAR (50) NOT NULL
+CREATE TABLE youtubedata(
+	title VARCHAR (100) NOT NULL,
+	date TIMESTAMP NOT NULL,
+	description TEXT NOT NULL,
+	thumbnail VARCHAR (50) NOT NULL,
+	url VARCHAR (50) NOT NULL
 );
 	
-CREATE TABLE IMDBData(
-	Title VARCHAR (100) NOT NULL,
-	Date TEXT NOT NULL
+CREATE TABLE imdbdata(
+	title VARCHAR (100) NOT NULL,
+	date TEXT NOT NULL
 );
