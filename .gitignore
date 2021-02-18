@@ -130,3 +130,4 @@ dmypy.json
 
 # credentials
 desktop_cred.json
+scraper/miscvar.py
