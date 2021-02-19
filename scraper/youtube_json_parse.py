@@ -64,11 +64,13 @@ for filename in os.listdir(json_directory):
 
             date = datetime.strptime(timestamp, '%Y-%m-%dT%XZ')
 
+            print(filename)
             print(title)
-            print(date)
-            print(description)
-            print(thumbnail)
-            print(url)
+            # print(date)
+            # print(description)
+            # print(thumbnail)
+            # print(url)
+            print("--------------------")
 
             # key_pretty = json.dumps(key, indent=2)
             # print(key_pretty)
@@ -79,10 +81,10 @@ for filename in os.listdir(json_directory):
             session.commit()
 
 
-            break
+            # break
 
 
-        break # temporary stop to work with only 1 file right now
+        # break # temporary stop to work with only 1 file right now
         #  print(os.path.join(json_directory, filename))
         #  continue
     else:
