@@ -53,7 +53,7 @@ def get_video_id_by_url(url):
 
 def get_video_details(youtube, **kwargs):
     return youtube.videos().list(
-        part="snippet,contentDetails,statistics",
+        part="snippet,statistics",
         **kwargs
     ).execute()
 
@@ -82,10 +82,19 @@ def print_video_infos(video_response):
     """)
 
 ####################################
-video_url = "https://www.youtube.com/watch?v=jNQXAC9IVRw&ab_channel=jawed"
+channel_url = "https://www.youtube.com/user/5secondfilms/videos"
+channel_id = "UCG9lNhVqk9luFLxBKDzuO9g"
+uploads = "UUG9lNhVqk9luFLxBKDzuO9g"
+key = 'AIzaSyCm3adUQ_8y1rBYHPQDpY9cGUPamYVemAI'
+
+video_url = "https://www.youtube.com/watch?v=jNQXAC9IVRw"
 # parse video ID from URL
 video_id = get_video_id_by_url(video_url)
 # make API call to get video info
 response = get_video_details(youtube, id=video_id)
 # print extracted video infos
-print_video_infos(response)
+# print_video_infos(response)
+
+https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId=UUG9lNhVqk9luFLxBKDzuO9g&key={mykeyhere}
+
+token = results.get('nextPageToken', None)
