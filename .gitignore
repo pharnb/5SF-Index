@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # credentials
-desktop_cred.json
-scraper/miscvar.py
+*/desktop_cred.json
+*/miscvar.py
+miscvar.py
