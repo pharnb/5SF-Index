@@ -7,9 +7,21 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Bootstrap Table</title>
+        <title>5SF Index</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="styles.css">
+
+        <!-- jQuery from Google CDN for DataTables -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
+        <!--DataTables CDN for dynamic tables-->
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.css"/>
+        <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.js"></script>
+        <script>
+        $(document).ready(function() {
+            $('#fivesftable').DataTable();
+        } );
+        </script>
     </head>
 
 
@@ -19,14 +31,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <table class="table table-striped">
+                    <table id="fivesftable" class="table table-striped">
                     <thead>
                         <tr>
-                        <th>Thumbnail</th>
-                        <th>Title</th>
-                        <th>Date Uploaded</th>
-                        <th>Description</th>
-                        <th>Tags</th>
+                            <th>Thumbnail</th>
+                            <th>Title</th>
+                            <th>Date Uploaded</th>
+                            <th>Description</th>
+                            <th>Tags</th>
                         </tr>
                     </thead>
                     <tbody>
