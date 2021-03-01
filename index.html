@@ -15,11 +15,26 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         
         <!--DataTables CDN for dynamic tables-->
+        <!-- FixedHeader, Responsive, SearchBuilder, SearchPanes -->
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.css"/>
         <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.js"></script>
         <script>
         $(document).ready(function() {
-            $('#fivesftable').DataTable();
+            $('#fivesftable').DataTable({
+                // "processing": true,
+                // "serverSide": true,
+                "ajax": {
+                    "url": "/scripts/data.json",
+                    "dataSrc": ""
+                },
+                columns: [
+                    {"data": 'thumbnail'},
+                    {"data": 'title'},
+                    {"data": 'date'},
+                    {"data": 'description'},
+                    {"data": 'url'}
+                ]
+            });
         } );
         </script>
     </head>
@@ -31,39 +46,48 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <table id="fivesftable" class="table table-striped">
-                    <thead>
-                        <tr>
-                            <th>Thumbnail</th>
-                            <th>Title</th>
-                            <th>Date Uploaded</th>
-                            <th>Description</th>
-                            <th>Tags</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td></td>
-                            <th scope="row">Title 1</th>
-                            <td>01/01/01</td>
-                            <td>lorem ipsum</td>
-                            <td>guns</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <th scope="row">Title 2</th>
-                            <td>01/02/01</td>
-                            <td>dolor sit amet</td>
-                            <td>cars</td>
-                        </tr>
-                        <tr>
-                            <td></td>
-                            <th scope="row">Title 3</th>
-                            <td>01/03/01</td>
-                            <td>consectetuer adipiscing</td>
-                            <td>situational irony</td>
-                        </tr>
-                    </tbody>
+                    <table id="fivesftable" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Thumbnail</th>
+                                <th>Title</th>
+                                <th>Date Uploaded</th>
+                                <th>Description</th>
+                                <th>Tags</th>
+                            </tr>
+                        </thead>
+                        <!-- <tbody>
+                            <tr>
+                                <td></td>
+                                <th scope="row">Title 1</th>
+                                <td>01/01/01</td>
+                                <td>lorem ipsum</td>
+                                <td>guns</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <th scope="row">Title 2</th>
+                                <td>01/02/01</td>
+                                <td>dolor sit amet</td>
+                                <td>cars</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <th scope="row">Title 3</th>
+                                <td>01/03/01</td>
+                                <td>consectetuer adipiscing</td>
+                                <td>situational irony</td>
+                            </tr>
+                        </tbody> -->
+                        <tfoot>
+                            <tr>
+                                <th>Thumbnail</th>
+                                <th>Title</th>
+                                <th>Date Uploaded</th>
+                                <th>Description</th>
+                                <th>Tags</th>
+                            </tr>
+                        </tfoot>
                     </table>
                 </div>
             </div>
