@@ -32,7 +32,12 @@
                     {"data": 'title'},
                     {"data": 'date'},
                     {"data": 'description'},
-                    {"data": 'url'}
+                    {
+                        "data": 'url',
+                        "render": function(data, type, row, meta) {
+                            return '<a href="'+data+'">Video Link</a>';
+                        }
+                    }
                 ]
             });
         } );
