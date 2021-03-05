@@ -28,21 +28,21 @@
                     "dataSrc": ""
                 },
                 columns: [
+                    // read json and output respective data columns
                     {
                         "data": 'thumbnail',
                         "render": function(data, type, row, meta) {
-                            return '<img src="'+data+'" width="100">';
+                            return '<img src="' + data + '" width="100">';
                         }
                     },
-                    {"data": 'title'},
+                    {
+                        "data": 'title',
+                        "render": function(data, type, row, meta) {
+                            return '<a href="' + row['url'] + '">' + data + '</a>'
+                        }},
                     {"data": 'date'},
                     {"data": 'description'},
-                    {
-                        "data": 'url',
-                        "render": function(data, type, row, meta) {
-                            return '<a href="'+data+'">Video Link</a>';
-                        }
-                    }
+                    {"data": 'id'}
                 ]
             });
         } );
