@@ -22,8 +22,7 @@
             /* table background color */
             .bg-secondary {background:#393939 !important;}
             /* pagination color */
-            .pagination > li > a
-            {
+            .pagination > li > a {
                 background: #393939 !important;
                 color: #ffffff !important;
             }
@@ -44,6 +43,26 @@
 
         <!-- Ajax script -->
         <script>
+            
+        // /* Formatting function for row details - modify as you need */
+        // function format ( d ) {
+        //     // `d` is the original data object for the row
+        //     return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+        //         '<tr>'+
+        //             '<td>Full name:</td>'+
+        //             '<td>'+d.name+'</td>'+
+        //         '</tr>'+
+        //         '<tr>'+
+        //             '<td>Extension number:</td>'+
+        //             '<td>'+d.extn+'</td>'+
+        //         '</tr>'+
+        //         '<tr>'+
+        //             '<td>Extra info:</td>'+
+        //             '<td>And any further details here (images etc)...</td>'+
+        //         '</tr>'+
+        //     '</table>';
+        // }
+
         $(document).ready(function() {
             $('#fivesftable').DataTable({
                 // "processing": true,
@@ -70,14 +89,42 @@
                         "render": $.fn.DataTable.render.moment('YYYY-MM-DD HH:mm:ss', 'MMM Do YYYY') // hh:mm a')
                     }, {
                         "data": 'description',
-                        "width": '20%'
+                        "width": '20%',
+                        "render": function ( data, type, row ) {
+                            return type === 'display' && data.length > 150 ?
+                            data.substr(0,150) + '...' :
+                            data;
+                        }
                     }, {
+                    //     "className":      'details-control',
+                    //     "orderable":      false,
+                    //     "data":           null,
+                    //     "defaultContent": ''
+                    // }, {
                         "data": 'id',
                         "width": '50%'
                     }
                 ]
             });
         } );
+
+        // // Add event listener for opening and closing details
+        // $('#example tbody').on('click', 'td.details-control', function () {
+        //     var tr = $(this).closest('tr');
+        //     var row = table.row( tr );
+    
+        //     if ( row.child.isShown() ) {
+        //         // This row is already open - close it
+        //         row.child.hide();
+        //         tr.removeClass('shown');
+        //     }
+        //     else {
+        //         // Open this row
+        //         row.child( format(row.data()) ).show();
+        //         tr.addClass('shown');
+        //     }
+        // } );
+
         </script>
     </head>
 
@@ -95,6 +142,7 @@
                                 <th>Title</th>
                                 <th>Date</th>
                                 <th>Description</th>
+                                <!-- <th></th> -->
                                 <th>Tags</th>
                             </tr>
                         </thead>
@@ -127,6 +175,7 @@
                                 <th>Title</th>
                                 <th>Date Uploaded</th>
                                 <th>Description</th>
+                                <!-- <th></th> -->
                                 <th>Tags</th>
                             </tr>
                         </tfoot>
