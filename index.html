@@ -52,9 +52,11 @@
                     "url": "/scripts/data.json",
                     "dataSrc": ""
                 },
+                "order": [[2, 'asc']], // default sort by date ascending
                 columns: [ // read json and output respective data columns
                        {
                         "data": 'thumbnail',
+                        "orderable": false ,
                         // "render": function(data, type, row, meta) {
                         //     return '<img src="' + data + '" width="100">';
                         // }
