@@ -12,7 +12,23 @@
         <!-- Bootstrap formatting -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"/>
         <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/> -->
-        <link rel="stylesheet" href="styles.css">
+        <!-- <link rel="stylesheet" href="styles.css"> -->
+
+        <!-- Changing Bootstrap CSS -->
+        <style type="text/css">
+            /* page color */
+            body {background: #000000 !important;
+                  color: #ffffff !important;}  /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+            /* table background color */
+            .bg-secondary {background:#393939 !important;}
+            /* pagination color */
+            .pagination > li > a
+            {
+                background: #393939 !important;
+                color: #ffffff !important;
+            }
+        </style>
+         
 
         <!-- jQuery from Google CDN for DataTables -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -72,7 +88,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <table id="fivesftable" class="table table-striped" style="width:100%">
+                    <table id="fivesftable" class="table table-striped bg-secondary text-light" style="width:100%">
                         <thead>
                             <tr>
                                 <th>Thumbnail</th>
