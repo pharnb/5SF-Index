@@ -37,15 +37,21 @@
                         // }
                     }, {
                         "data": 'title',
+                        "width": '10%',
                         "render": function(data, type, row, meta) {
                             return '<a href="' + row['url'] + '">' + data + '</a>'
                         }
                     }, {
                         "data": 'date',
+                        "width": '10%',
                         "render": $.fn.DataTable.render.moment('YYYY-MM-DD HH:mm:ss', 'MMM Do YYYY hh:mm a')
-                    },
-                    {"data": 'description'},
-                    {"data": 'id'}
+                    }, {
+                        "data": 'description',
+                        "width": '20%'
+                    }, {
+                        "data": 'id',
+                        "width": '50%'
+                    }
                 ]
             });
         } );
