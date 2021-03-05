@@ -28,7 +28,12 @@
                     "dataSrc": ""
                 },
                 columns: [
-                    {"data": 'thumbnail'},
+                    {
+                        "data": 'thumbnail',
+                        "render": function(data, type, row, meta) {
+                            return '<img src="'+data+'">';
+                        }
+                    },
                     {"data": 'title'},
                     {"data": 'date'},
                     {"data": 'description'},
