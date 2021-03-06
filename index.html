@@ -83,8 +83,8 @@
                         "width": '20%',
                         "render": function (data, type, full, meta) {
                             return type === 'display' && data.length > 50 ?
-                                '<button type="button" class="btn btn-secondary" data-toggle="popover" data-placement="bottom" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
-                                '<button type="button" class="btn btn-secondary">' + data + '</button>';
+                                '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
+                                '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
                         }
                         
                     }, {
