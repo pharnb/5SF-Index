@@ -44,6 +44,11 @@
         <!-- Ellipsis plugin -->
         <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.22/dataRender/ellipsis.js"></script>
 
+        <!-- Popper for tooltip -->
+        <!-- JavaScript Bundle with Popper -->
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+
+
         <!-- Ajax script -->
         <script>
             
@@ -76,14 +81,26 @@
                     }, {
                         "data": 'description',
                         "width": '20%',
-                        "render": $.fn.DataTable.render.ellipsis(100, true)
+                        "render": function (data, type, full, meta) {
+                            return type === 'display' && data.length > 50 ?
+                                '<button type="button" class="btn btn-secondary" data-toggle="popover" data-placement="bottom" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
+                                '<button type="button" class="btn btn-secondary">' + data + '</button>';
+                        }
+                        
                     }, {
                         "data": 'id',
-                        "width": '50%'
+                        "width": '50%',
+                        // "render": 
                     }
                 ]
             });
+
+            $('#fivesftable').on('click', function () {
+                $('[data-toggle="popover"]').popover();
+            });
         } );
+
+        
 
 
 
