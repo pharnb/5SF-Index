@@ -38,8 +38,11 @@
         <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.js"></script>
         
         <!-- datetime, moment.js for date formatting -->
-        <script type="text/javascript" src="//cdn.datatables.net/plug-ins/1.10.22/dataRender/datetime.js"></script>
-        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.22/dataRender/datetime.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+
+        <!-- Ellipsis plugin -->
+        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.22/dataRender/ellipsis.js"></script>
 
         <!-- Ajax script -->
         <script>
@@ -73,11 +76,7 @@
                     }, {
                         "data": 'description',
                         "width": '20%',
-                        "render": function ( data, type, row ) {
-                            return type === 'display' && data.length > 150 ?
-                            data.substr(0,150) + ' (...)' :
-                            data;
-                        }
+                        "render": $.fn.DataTable.render.ellipsis(100, true)
                     }, {
                         "data": 'id',
                         "width": '50%'
