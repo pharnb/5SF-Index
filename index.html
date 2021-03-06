@@ -43,12 +43,12 @@
                 color: #000000;
             }
             td.details-control {
-                background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+                /* background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center; */
                 cursor: pointer;
             }
-            tr.shown td.details-control {
+            /* tr.shown td.details-control {
                 background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
-            }
+            } */
         </style>
          
 
@@ -107,19 +107,25 @@
                         }, {
                             "data": 'description',
                             "width": '20%',
-                            "render": function (data, type, full, meta) {
+                            "className": 'details-control',
+                            "render": function ( data, type, row ) {
                                 return type === 'display' && data.length > 50 ?
-                                    '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data.substr(0,50) + '(...)' + '</a>':
-                                    '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data + '</a>';
-                                    // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
-                                    // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
+                                data.substr(0,50) + ' (...)' :
+                                data;
                             }
+                            // "render": function (data, type, full, meta) {
+                            //     return type === 'display' && data.length > 50 ?
+                            //         '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data.substr(0,50) + '(...)' + '</a>':
+                            //         '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data + '</a>';
+                            //         // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
+                            //         // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
+                            // }
                             
                         }, {
-                            "data": null,
+                            "data": 'id',
                             "width": '50%',
                             "className": 'details-control',
-                            "defaultContent": ''
+                            // "defaultContent": ''
                             // "render": 
                         }
                     ]
