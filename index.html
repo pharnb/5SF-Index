@@ -42,6 +42,13 @@
                 text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.35);
                 color: #000000;
             }
+            td.details-control {
+                background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+                cursor: pointer;
+            }
+            tr.shown td.details-control {
+                background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+            }
         </style>
          
 
@@ -66,66 +73,112 @@
 
         <!-- Ajax script -->
         <script>
-            
-        $(document).ready(function() {
-            $('#fivesftable').DataTable({
-                // "processing": true,
-                // "serverSide": true,
-                "ajax": {
-                    "url": "/scripts/data.json",
-                    "dataSrc": ""
-                },
-                "order": [[2, 'asc']], // default sort by date ascending
-                columns: [ // read json and output respective data columns
-                       {
-                        "data": 'thumbnail',
-                        "orderable": false ,
-                        // "render": function(data, type, row, meta) {
-                        //     return '<img src="' + data + '" width="100">';
-                        // }
-                    }, {
-                        "data": 'title',
-                        "width": '10%',
-                        "render": function(data, type, row, meta) {
-                            return '<a href="' + row['url'] + '">' + data + '</a>'
-                        }
-                    }, {
-                        "data": 'date',
-                        "width": '10%',
-                        "render": $.fn.DataTable.render.moment('YYYY-MM-DD HH:mm:ss', 'MMM Do YYYY') // hh:mm a')
-                    }, {
-                        "data": 'description',
-                        "width": '20%',
-                        "render": function (data, type, full, meta) {
-                            return type === 'display' && data.length > 50 ?
-                                '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data.substr(0,50) + '(...)' + '</a>':
-                                '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data + '</a>';
-                                // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
-                                // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
-                        }
-                        
-                    }, {
-                        "data": 'id',
-                        "width": '50%',
-                        // "render": 
-                    }
-                ]
-            });
+            /* Formatting function for row details - modify as you need */
+            function format ( d ) {
+                // `d` is the original data object for the row
+                return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
+                    '<tr>'+
+                        '<td>Full name:</td>'+
+                        '<td>'+d.name+'</td>'+
+                    '</tr>'+
+                    '<tr>'+
+                        '<td>Extension number:</td>'+
+                        '<td>'+d.extn+'</td>'+
+                    '</tr>'+
+                    '<tr>'+
+                        '<td>Extra info:</td>'+
+                        '<td>And any further details here (images etc)...</td>'+
+                    '</tr>'+
+                '</table>';
+            }
 
-            // popover initialize
-            $('#fivesftable').on('click', function () {
-                $('[data-toggle="popover"]').popover({
+            $(document).ajaxComplete(function() {
+                var $label = $("#fivesftable");
+                var text = $label.text();
+                // $label.text(text.replace("\"", "&quot")); 
+            });
+                
+            $(document).ready(function() {
+                var table = $('#fivesftable').DataTable({
+                    // "processing": true,
+                    // "serverSide": true,
+                    "responsive": true,
+                    "ajax": {
+                        "url": "/scripts/data.json",
+                        "dataSrc": ""
+                    },
+
+                    // default sort by date ascending
+                    "order": [[2, 'asc']], 
+
+                    // read json and output respective data columns
+                    columns: [ 
+                        {
+                            "data": 'thumbnail',
+                            "orderable": false ,
+                            // "render": function(data, type, row, meta) {
+                            //     return '<img src="' + data + '" width="100">';
+                            // }
+                        }, {
+                            "data": 'title',
+                            "width": '10%',
+                            "render": function(data, type, row, meta) {
+                                return '<a href="' + row['url'] + '">' + data + '</a>'
+                            }
+                        }, {
+                            "data": 'date',
+                            "width": '10%',
+                            "render": $.fn.DataTable.render.moment('YYYY-MM-DD HH:mm:ss', 'MMM Do YYYY') // hh:mm a')
+                        }, {
+                            "data": 'description',
+                            "width": '20%',
+                            "render": function (data, type, full, meta) {
+                                return type === 'display' && data.length > 50 ?
+                                    '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data.substr(0,50) + '(...)' + '</a>':
+                                    '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data + '</a>';
+                                    // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
+                                    // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
+                            }
+                            
+                        }, {
+                            "data": null,
+                            "width": '50%',
+                            "className": 'details-control',
+                            "defaultContent": ''
+                            // "render": 
+                        }
+                    ]
+                });
+
+                // popover initialize
+                $('#fivesftable').on('click', function () {
+                    $('[data-toggle="popover"]').popover({
+                        trigger: 'focus'
+                    });
+                });
+                // dismissable popover
+                $('.popover-dismiss').popover({
                     trigger: 'focus'
                 });
-            });
-            // dismissable popover
-            $('.popover-dismiss').popover({
-                trigger: 'focus'
-            });
+                $('#fivesftable tbody').on('click', 'td.details-control', function () {
+                    var tr = $(this).closest('tr');
+                    var row = table.row( tr );
+            
+                    if ( row.child.isShown() ) {
+                        // This row is already open - close it
+                        row.child.hide();
+                        tr.removeClass('shown');
+                    }
+                    else {
+                        // Open this row
+                        row.child( format(row.data()) ).show();
+                        tr.addClass('shown');
+                    }
+                } );
 
-        } );
+            } );
 
-        
+            
 
 
 
