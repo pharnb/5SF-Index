@@ -26,6 +26,7 @@
                 background: #393939 !important;
                 color: #ffffff !important;
             }
+            /* popover color to match site style */
             .popover-header {background: #393939 !important}
             .popover {background: #000000 !important}
         </style>
@@ -46,7 +47,6 @@
         <!-- Ellipsis plugin -->
         <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.22/dataRender/ellipsis.js"></script>
 
-        <!-- Popper for tooltip -->
         <!-- JavaScript Bundle with Popper -->
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -85,8 +85,10 @@
                         "width": '20%',
                         "render": function (data, type, full, meta) {
                             return type === 'display' && data.length > 50 ?
-                                '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
-                                '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
+                                '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data.substr(0,50) + '(...)' + '</a>':
+                                '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data + '</a>';
+                                // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
+                                // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
                         }
                         
                     }, {
@@ -97,9 +99,17 @@
                 ]
             });
 
+            // popover initialize
             $('#fivesftable').on('click', function () {
-                $('[data-toggle="popover"]').popover();
+                $('[data-toggle="popover"]').popover({
+                    trigger: 'focus'
+                });
             });
+            // dismissable popover
+            $('.popover-dismiss').popover({
+                trigger: 'focus'
+            });
+
         } );
 
         
