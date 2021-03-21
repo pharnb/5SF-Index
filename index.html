@@ -1,238 +1,109 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
+  <head>
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+    <title>Bootstrap Visualization Dashboard</title>
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>5SF Index</title>
+    <!-- Boostrap Stylesheet -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
 
-        <!-- Bootstrap formatting -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css"/>
-        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css"/> -->
-        <!-- <link rel="stylesheet" href="styles.css"> -->
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" href="assets/css/styles.css" media="screen">
 
-        <!-- Changing Bootstrap CSS -->
-        <style type="text/css">
-            /* page color */
-            body {background: #000000 !important;
-                  color: #ffffff !important;}  /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
-            /* table background color */
-            .bg-secondary {background:#393939 !important;}
-            /* pagination color */
-            .pagination > li > a {
-                background: #393939 !important;
-                color: #ffffff !important;
-            }
-            /* popover color to match site style */
-            .popover-header {background: #393939 !important}
-            .popover {background: #000000 !important}
-            /* rip off css code from 5SF site to duplicate color scheme */
-            thead, tfoot {
-                background-color: #e1af1e;
-                background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#e4ae20), to(#d18b1b));
-                background: -webkit-linear-gradient(top, #e4ae20, #d18b1b);
-                background: -moz-linear-gradient(top, #e4ae20, #d18b1b);
-                background: -ms-linear-gradient(top, #e4ae20, #d18b1b);
-                background: -o-linear-gradient(top, #e4ae20, #d18b1b);
-                background: linear-gradient(top, #e4ae20, #d18b1b);
-                border-top: 1px solid #f5c032;
-                text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.35);
-                color: #000000;
-            }
-            td.details-control {
-                /* background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center; */
-                cursor: pointer;
-            }
-            /* tr.shown td.details-control {
-                background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
-            } */
-        </style>
-         
+  </head>
 
-        <!-- jQuery from Google CDN for DataTables -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-        
-        <!--DataTables CDN for dynamic tables-->
-        <!-- FixedHeader, Responsive, SearchBuilder, SearchPanes -->
-        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.css"/>
-        <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.23/fh-3.1.8/r-2.2.7/sb-1.0.1/sp-1.2.2/datatables.min.js"></script>
-        
-        <!-- datetime, moment.js for date formatting -->
-        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.22/dataRender/datetime.js"></script>
-        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+  <body>
+    <!-- Start of navbar -->
+    <nav class="navbar navbar-default">
+      <div class="container-fluid navbar-custom">
 
-        <!-- Ellipsis plugin -->
-        <script type="text/javascript" src="https://cdn.datatables.net/plug-ins/1.10.22/dataRender/ellipsis.js"></script>
-
-        <!-- JavaScript Bundle with Popper -->
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
-
-
-        <!-- Ajax script -->
-        <script>
-            $(document).ready(function() {
-                var table = $('#fivesftable').DataTable({
-                    // "processing": true,
-                    // "serverSide": true,
-                    "responsive": true,
-                    "ajax": {
-                        "url": "/scripts/data.json",
-                        "dataSrc": ""
-                    },
-
-                    // default sort by date ascending
-                    "order": [[2, 'asc']], 
-
-                    // read json and output respective data columns
-                    columns: [ 
-                        {
-                            "data": 'thumbnail',
-                            "orderable": false ,
-                            // "render": function(data, type, row, meta) {
-                            //     return '<img src="' + data + '" width="100">';
-                            // }
-                        }, {
-                            "data": 'title',
-                            "width": '10%',
-                            "render": function(data, type, row, meta) {
-                                return '<a href="' + row['url'] + '">' + data + '</a>'
-                            }
-                        }, {
-                            "data": 'date',
-                            "width": '10%',
-                            "render": $.fn.DataTable.render.moment('YYYY-MM-DD HH:mm:ss', 'MMM Do YYYY') // hh:mm a')
-                        }, {
-                            "data": 'description',
-                            "width": '20%',
-                            "className": 'details-control',
-                            "render": function ( data, type, row ) {
-                                return type === 'display' && data.length > 50 ?
-                                data.substr(0,50) + ' (...)' :
-                                data;
-                            }
-                            // "render": function (data, type, full, meta) {
-                            //     return type === 'display' && data.length > 50 ?
-                            //         '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data.substr(0,50) + '(...)' + '</a>':
-                            //         '<a tabindex="0" class="btn btn-secondary" role="button" data-toggle="popover" data-trigger="focus" title="' + data + '">' + data + '</a>';
-                            //         // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data.substr(0,50) + '(...)' + '</button>':
-                            //         // '<button type="button" class="btn btn-secondary" data-toggle="popover" title="' + data + '">' + data + '</button>';
-                            // }
-                            
-                        }, {
-                            "data": 'id',
-                            "width": '50%',
-                            "className": 'details-control',
-                            // "defaultContent": ''
-                            // "render": 
-                        }
-                    ]
-                });
-
-                // popover initialize
-                $('#fivesftable').on('click', function () {
-                    $('[data-toggle="popover"]').popover({
-                        trigger: 'focus'
-                    });
-                });
-                // dismissable popover
-                $('.popover-dismiss').popover({
-                    trigger: 'focus'
-                });
-                // child row for description
-                $('#fivesftable tbody').on('click', 'td.details-control', function () {
-                    var tr = $(this).closest('tr');
-                    var row = table.row( tr );
-            
-                    if ( row.child.isShown() ) {
-                        // This row is already open - close it
-                        row.child.hide();
-                        tr.removeClass('shown');
-                    }
-                    else {
-                        // Open this row
-                        row.child( format(row.data()) ).show();
-                        tr.addClass('shown');
-                    }
-                } );
-
-            } );
-
-            // function for child rows
-            function format ( d ) {
-                // `d` is the original data object for the row
-                return '<table cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">'+
-                    '<tr>'+
-                        '<td>Full Description:</td>'+
-                        '<td>'+d.description+'</td>'+
-                    '</tr>'+
-                '</table>';
-            }
-            
-
-
-
-        </script>
-    </head>
-
-
-
-
-    <body>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <table id="fivesftable" class="table table-striped bg-secondary text-light" style="width:100%">
-                        <thead>
-                            <tr>
-                                <th>Thumbnail</th>
-                                <th>Title</th>
-                                <th>Date</th>
-                                <th>Description</th>
-                                <th>Tags</th>
-                            </tr>
-                        </thead>
-                        <!-- <tbody>
-                            <tr>
-                                <td></td>
-                                <th scope="row">Title 1</th>
-                                <td>01/01/01</td>
-                                <td>lorem ipsum</td>
-                                <td>guns</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <th scope="row">Title 2</th>
-                                <td>01/02/01</td>
-                                <td>dolor sit amet</td>
-                                <td>cars</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <th scope="row">Title 3</th>
-                                <td>01/03/01</td>
-                                <td>consectetuer adipiscing</td>
-                                <td>situational irony</td>
-                            </tr>
-                        </tbody> -->
-                        <tfoot>
-                            <tr>
-                                <th>Thumbnail</th>
-                                <th>Title</th>
-                                <th>Date Uploaded</th>
-                                <th>Description</th>
-                                <th>Tags</th>
-                            </tr>
-                        </tfoot>
-                    </table>
-                </div>
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="row">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle Navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <div class="col-xs-9 phone-nav">
+              <a class="navbar-brand" href="#" id="logo">Latitude</a>
             </div>
           </div>
-    </body>
 
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right navbar-right-custom">
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                 <li><a href="visualizations/temp.html">Max Temperature</a></li>
+                  <li><a href="visualizations/humidity.html">Humidity</a></li>
+                  <li><a href="visualizations/cloudiness.html">Cloudiness</a></li>
+                  <li><a href="visualizations/wind.html">Wind Speed</a></li>
+                </ul>
+              </li>
+              <li><a href="comparison.html">Comparison</a></li>
+              <li><a href="data.html">Data</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div>
+      </div><!-- /.container-fluid -->
+    </nav>
+    <!-- End of navbar -->
 
+    <!-- Start of container -->
+    <div class="container">
+      <section class="row">
+        <div class="col-md-8">
+          <article class="description-content">
+            <h1 class="description-header">Summary: Latitude vs. X</h1>
+            <hr class="description-hr"/>
+            <img src="assets/images/Fig1.png" alt="" id="description-image"/>
+            <p>The purpose of this project was to analyze how weather changes as you get closer to the equator. To accomplish this analysis, we first pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities.</p>
+            <p>After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs. latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.</p>
+          </article>
+        </div>
+        <div class="col-md-4">
 
+          <!-- Start of Visualizations imageNav Area -->
+          <section id="imageNav-area">
+            <div class="imageNav-content">
+              <h2 class="imageNav-header">Visualizations</h2>
+              <hr />
+              <div id="images">
+                <a href="visualizations/temp.html"><img src="assets/images/Fig1.png" alt="Latitude vs. Max Temperature" class="imageNav-photo"></a>
+                <a href="visualizations/humidity.html"><img src="assets/images/Fig2.png" alt="Latitude vs. Humidity" class="imageNav-photo"></a>
+                <a href="visualizations/cloudiness.html"><img src="assets/images/Fig3.png" alt="Latitude vs. Cloudiness" class="imageNav-photo"></a>
+                <a href="visualizations/wind.html"><img src="assets/images/Fig4.png" alt="Latitude vs. Wind Speed" class="imageNav-photo"></a>
+              </div>
+            </div>
+          </section>
+          <!-- End of the Visualizations imageNav Area -->
+
+        </div>
+      </section>
+    </div>
+    <!-- End of container -->
+
+    <!-- Start of footer -->
+    <footer class="footer navbar-fixed-bottom">
+      <div class="two-toned-footer-color"></div>
+      <p class="text-muted text-muted-footer text-center">
+        &copy; Copyright Coding Bootcamp 2017
+      </p>
+    </footer>
+    <!-- End of footer -->
+
+    <!-- jQuery CDN -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+    <!-- Bootstrap CDN -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  </body>
 
 </html>
